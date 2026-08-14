@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-12T20:40:57Z",
+            "last_commit": "2026-08-13T22:12:47Z",
             "owner": "cake-tech",
             "repo": "cake_wallet",
-            "stars": 1841
+            "stars": 1845
           }
         },
         {
@@ -120,7 +120,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-08-12T17:06:03Z",
+            "last_commit": "2026-08-14T02:15:22Z",
             "owner": "paytaca",
             "repo": "paytaca-app",
             "stars": 56
@@ -133,8 +133,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T16:47:23Z",
+            "language": "Vue",
+            "last_commit": "2026-08-13T10:55:45Z",
             "owner": "cashonize",
             "repo": "cashonize-wallet",
             "stars": 18
@@ -195,8 +195,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T16:47:23Z",
+            "language": "Vue",
+            "last_commit": "2026-08-13T10:55:45Z",
             "owner": "cashonize",
             "repo": "cashonize-wallet",
             "stars": 18
@@ -361,8 +361,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T16:47:23Z",
+            "language": "Vue",
+            "last_commit": "2026-08-13T10:55:45Z",
             "owner": "cashonize",
             "repo": "cashonize-wallet",
             "stars": 18
@@ -929,7 +929,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-08-12T17:06:03Z",
+            "last_commit": "2026-08-14T02:15:22Z",
             "owner": "paytaca",
             "repo": "paytaca-app",
             "stars": 56
@@ -1005,7 +1005,7 @@
             "last_commit": "2026-08-13T04:22:56Z",
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10908
+            "stars": 10909
           }
         },
         {
@@ -1248,7 +1248,7 @@
             "last_commit": "2026-08-06T01:21:26Z",
             "owner": "gcash",
             "repo": "bchd",
-            "stars": 291
+            "stars": 290
           }
         },
         {
@@ -1273,7 +1273,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T16:27:09Z",
+            "last_commit": "2026-08-13T22:15:26Z",
             "owner": "k-nuth",
             "repo": "kth",
             "stars": 6
@@ -1712,7 +1712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:35:23.371Z",
+    "last_updated": "2026-08-14T03:27:07.318Z",
     "original_repository": "2qx/awesome-bitcoin-cash",
     "original_repository_sha": "622b7a94d3085202a1ff197cb0fad8735f51b545",
     "enhanced_repository": "enhansome/enhansome-bitcoin-cash",
