@@ -65,7 +65,7 @@
                 "archived": false,
                 "id": 231816914,
                 "language": "Dart",
-                "last_commit": "2026-08-19T11:49:34Z",
+                "last_commit": "2026-08-20T01:19:14Z",
                 "owner": "cake-tech",
                 "repo": "cake_wallet",
                 "stars": 1860
@@ -95,7 +95,7 @@
                 "archived": false,
                 "id": 529170413,
                 "language": "Dart",
-                "last_commit": "2026-08-18T16:37:20Z",
+                "last_commit": "2026-08-20T00:49:58Z",
                 "owner": "cypherstack",
                 "repo": "stack_wallet",
                 "stars": 441
@@ -125,10 +125,10 @@
                 "archived": false,
                 "id": 321209306,
                 "language": "Vue",
-                "last_commit": "2026-08-19T08:45:31Z",
+                "last_commit": "2026-08-20T01:55:52Z",
                 "owner": "paytaca",
                 "repo": "paytaca-app",
-                "stars": 56
+                "stars": 57
               }
             },
             {
@@ -139,26 +139,11 @@
               "repo_info": {
                 "archived": false,
                 "id": 745048424,
-                "language": "Vue",
-                "last_commit": "2026-08-19T12:07:54Z",
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T14:29:58Z",
                 "owner": "cashonize",
                 "repo": "cashonize-wallet",
                 "stars": 18
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Midori Wallet",
-              "description": "[code] - A lightweight, private, reliable, and secure wallet for Android, iOS.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1081521480,
-                "language": "Vue",
-                "last_commit": "2026-03-30T03:18:18Z",
-                "owner": "midoriwallet",
-                "repo": "midoriwallet",
-                "stars": 2
               }
             }
           ],
@@ -206,35 +191,13 @@
               "repo_info": {
                 "archived": false,
                 "id": 745048424,
-                "language": "Vue",
-                "last_commit": "2026-08-19T12:07:54Z",
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T14:29:58Z",
                 "owner": "cashonize",
                 "repo": "cashonize-wallet",
                 "stars": 18
               }
             },
-            {
-              "node_type": "item",
-              "title": "Midori Wallet",
-              "description": "[code] - A lightweight, private, reliable, and secure wallet.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1081521480,
-                "language": "Vue",
-                "last_commit": "2026-03-30T03:18:18Z",
-                "owner": "midoriwallet",
-                "repo": "midoriwallet",
-                "stars": 2
-              }
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Desktop"
-        },
-        {
-          "children": [
             {
               "children": [
                 {
@@ -365,7 +328,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Web Browser"
+          "title": "Desktop"
         },
         {
           "children": [
@@ -392,8 +355,8 @@
               "repo_info": {
                 "archived": false,
                 "id": 745048424,
-                "language": "Vue",
-                "last_commit": "2026-08-19T12:07:54Z",
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T14:29:58Z",
                 "owner": "cashonize",
                 "repo": "cashonize-wallet",
                 "stars": 18
@@ -992,10 +955,10 @@
                 "archived": false,
                 "id": 321209306,
                 "language": "Vue",
-                "last_commit": "2026-08-19T08:45:31Z",
+                "last_commit": "2026-08-20T01:55:52Z",
                 "owner": "paytaca",
                 "repo": "paytaca-app",
-                "stars": 56
+                "stars": 57
               }
             },
             {
@@ -1072,7 +1035,7 @@
                 "archived": false,
                 "id": 14531737,
                 "language": "Wikitext",
-                "last_commit": "2026-08-17T21:33:24Z",
+                "last_commit": "2026-08-19T20:53:39Z",
                 "owner": "bitcoin",
                 "repo": "bips",
                 "stars": 10922
@@ -1366,7 +1329,7 @@
                 "archived": false,
                 "id": 1007599554,
                 "language": "C++",
-                "last_commit": "2026-08-19T12:11:17Z",
+                "last_commit": "2026-08-19T23:21:36Z",
                 "owner": "k-nuth",
                 "repo": "kth",
                 "stars": 6
@@ -1849,10 +1812,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:17:40.781Z",
+    "last_updated": "2026-08-20T02:20:31.613Z",
     "original_repository": "2qx/awesome-bitcoin-cash",
     "original_repository_id": 263089151,
-    "original_repository_sha": "622b7a94d3085202a1ff197cb0fad8735f51b545",
+    "original_repository_sha": "8c94ef48b8ea52e6e753596c2ed3143360eabe1b",
     "enhanced_repository": "enhansome/enhansome-bitcoin-cash",
     "enhanced_repository_description": null,
     "title": "Awesome The Archive with stars"
