@@ -65,10 +65,10 @@
                 "archived": false,
                 "id": 231816914,
                 "language": "Dart",
-                "last_commit": "2026-08-20T22:57:27Z",
+                "last_commit": "2026-08-22T01:41:00Z",
                 "owner": "cake-tech",
                 "repo": "cake_wallet",
-                "stars": 1863
+                "stars": 1862
               }
             },
             {
@@ -80,10 +80,10 @@
                 "archived": false,
                 "id": 33124337,
                 "language": "Vue",
-                "last_commit": "2026-08-20T08:51:18Z",
+                "last_commit": "2026-08-21T19:01:20Z",
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
-                "stars": 459
+                "stars": 458
               }
             },
             {
@@ -95,10 +95,10 @@
                 "archived": false,
                 "id": 529170413,
                 "language": "Dart",
-                "last_commit": "2026-08-21T02:25:13Z",
+                "last_commit": "2026-08-21T23:48:34Z",
                 "owner": "cypherstack",
                 "repo": "stack_wallet",
-                "stars": 444
+                "stars": 446
               }
             },
             {
@@ -110,7 +110,7 @@
                 "archived": false,
                 "id": 98333687,
                 "language": "Python",
-                "last_commit": "2026-08-11T21:39:14Z",
+                "last_commit": "2026-08-21T17:59:11Z",
                 "owner": "Electron-Cash",
                 "repo": "Electron-Cash",
                 "stars": 388
@@ -125,7 +125,7 @@
                 "archived": false,
                 "id": 321209306,
                 "language": "Vue",
-                "last_commit": "2026-08-20T15:28:51Z",
+                "last_commit": "2026-08-21T15:29:24Z",
                 "owner": "paytaca",
                 "repo": "paytaca-app",
                 "stars": 57
@@ -162,10 +162,10 @@
                 "archived": false,
                 "id": 33124337,
                 "language": "Vue",
-                "last_commit": "2026-08-20T08:51:18Z",
+                "last_commit": "2026-08-21T19:01:20Z",
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
-                "stars": 459
+                "stars": 458
               }
             },
             {
@@ -177,7 +177,7 @@
                 "archived": false,
                 "id": 98333687,
                 "language": "Python",
-                "last_commit": "2026-08-11T21:39:14Z",
+                "last_commit": "2026-08-21T17:59:11Z",
                 "owner": "Electron-Cash",
                 "repo": "Electron-Cash",
                 "stars": 388
@@ -341,10 +341,10 @@
                 "archived": false,
                 "id": 33124337,
                 "language": "Vue",
-                "last_commit": "2026-08-20T08:51:18Z",
+                "last_commit": "2026-08-21T19:01:20Z",
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
-                "stars": 459
+                "stars": 458
               }
             },
             {
@@ -411,7 +411,7 @@
                 "last_commit": "2022-02-16T05:25:03Z",
                 "owner": "Bitcoin-com",
                 "repo": "paperwallet.bitcoin.com",
-                "stars": 101
+                "stars": 102
               }
             },
             {
@@ -955,7 +955,7 @@
                 "archived": false,
                 "id": 321209306,
                 "language": "Vue",
-                "last_commit": "2026-08-20T15:28:51Z",
+                "last_commit": "2026-08-21T15:29:24Z",
                 "owner": "paytaca",
                 "repo": "paytaca-app",
                 "stars": 57
@@ -1812,7 +1812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:26:07.902Z",
+    "last_updated": "2026-08-22T02:19:03.182Z",
     "original_repository": "2qx/awesome-bitcoin-cash",
     "original_repository_id": 263089151,
     "original_repository_sha": "8c94ef48b8ea52e6e753596c2ed3143360eabe1b",

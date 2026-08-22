@@ -72,11 +72,11 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 ### Mobile
 
-* [Cake Wallet](https://cakewallet.com/) [\[code\]](https://github.com/cake-tech/cake_wallet) ⭐ 1,863 | 🐛 314 | 🌐 Dart | 📅 2026-08-20 [\[apk\]](https://github.com/cake-tech/cake_wallet/releases) ⭐ 1,863 | 🐛 314 | 🌐 Dart | 📅 2026-08-20 - An open source wallet for iOS and Android supporting XMR and other currencies.
-* [Coin Wallet](https://coin.space/) [\[code\]](https://github.com/CoinSpace/CoinSpace) ⭐ 459 | 🐛 21 | 🌐 Vue | 📅 2026-08-20 - A self-custodial multicurrency wallet for multiple platforms (iOS and Android).
-* [Stack Wallet](https://stackwallet.com/) [\[code\]](https://github.com/cypherstack/stack_wallet) ⭐ 444 | 🐛 200 | 🌐 Dart | 📅 2026-08-21 - Multicoin wallet with UTXO (coin) control.
-* 🔵 [Electron-Cash](https://electroncash.org) - Android [\[code\]](https://github.com/Electron-Cash/Electron-Cash/tree/master/android) ⭐ 388 | 🐛 437 | 🌐 Python | 📅 2026-08-11 and iOS [\[code\]](https://github.com/Electron-Cash/Electron-Cash/tree/master/ios) ⭐ 388 | 🐛 437 | 🌐 Python | 📅 2026-08-11 versions available with more limited functionality.
-* 🔵 [Paytaca](https://www.paytaca.com/) [\[apk\]](https://github.com/paytaca/paytaca-app/releases) ⭐ 57 | 🐛 5 | 🌐 Vue | 📅 2026-08-20 [\[code\]](https://github.com/paytaca/paytaca-app) ⭐ 57 | 🐛 5 | 🌐 Vue | 📅 2026-08-20 - A mobile wallet for Android, iOS and ChromeOS
+* [Cake Wallet](https://cakewallet.com/) [\[code\]](https://github.com/cake-tech/cake_wallet) ⭐ 1,862 | 🐛 315 | 🌐 Dart | 📅 2026-08-22 [\[apk\]](https://github.com/cake-tech/cake_wallet/releases) ⭐ 1,862 | 🐛 315 | 🌐 Dart | 📅 2026-08-22 - An open source wallet for iOS and Android supporting XMR and other currencies.
+* [Coin Wallet](https://coin.space/) [\[code\]](https://github.com/CoinSpace/CoinSpace) ⭐ 458 | 🐛 21 | 🌐 Vue | 📅 2026-08-21 - A self-custodial multicurrency wallet for multiple platforms (iOS and Android).
+* [Stack Wallet](https://stackwallet.com/) [\[code\]](https://github.com/cypherstack/stack_wallet) ⭐ 446 | 🐛 200 | 🌐 Dart | 📅 2026-08-21 - Multicoin wallet with UTXO (coin) control.
+* 🔵 [Electron-Cash](https://electroncash.org) - Android [\[code\]](https://github.com/Electron-Cash/Electron-Cash/tree/master/android) ⭐ 388 | 🐛 436 | 🌐 Python | 📅 2026-08-21 and iOS [\[code\]](https://github.com/Electron-Cash/Electron-Cash/tree/master/ios) ⭐ 388 | 🐛 436 | 🌐 Python | 📅 2026-08-21 versions available with more limited functionality.
+* 🔵 [Paytaca](https://www.paytaca.com/) [\[apk\]](https://github.com/paytaca/paytaca-app/releases) ⭐ 57 | 🐛 5 | 🌐 Vue | 📅 2026-08-21 [\[code\]](https://github.com/paytaca/paytaca-app) ⭐ 57 | 🐛 5 | 🌐 Vue | 📅 2026-08-21 - A mobile wallet for Android, iOS and ChromeOS
 * 🔵 [Cashonize](https://github.com/cashonize/cashonize-wallet/tags) ⭐ 18 | 🐛 83 | 🌐 TypeScript | 📅 2026-08-20 [\[code\]](https://github.com/cashonize/cashonize-wallet) ⭐ 18 | 🐛 83 | 🌐 TypeScript | 📅 2026-08-20 - Offering an Android wallet for CashTokens.
 * 🔵 [Selene Wallet](https://selene.cash/) [\[code\]](https://git.xulu.tech/selene.cash/selene-wallet/) - Easy, no-hassle, instant payments in the palm of your hand.
 * 🔵 [zapit](https://zapit.io/#/)\* - A native, non-custodial Bitcoin Cash wallet for iOS and Android. \*Not open source
@@ -84,8 +84,8 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 ### Desktop
 
-* [Coin Wallet](https://coin.space/) [\[code\]](https://github.com/CoinSpace/CoinSpace) ⭐ 459 | 🐛 21 | 🌐 Vue | 📅 2026-08-20 - A self-custodial multicurrency wallet for multiple platforms (Windows, macOS and Linux).
-* 🔵 [Electron Cash CashToken](https://electroncash.org) [\[release\]](https://github.com/Electron-Cash/Electron-Cash/releases/tag/4.3.0) ⭐ 388 | 🐛 437 | 🌐 Python | 📅 2026-08-11 [\[code\]](https://github.com/Electron-Cash/Electron-Cash/) ⭐ 388 | 🐛 437 | 🌐 Python | 📅 2026-08-11 - Electron Cash with CashTokens.
+* [Coin Wallet](https://coin.space/) [\[code\]](https://github.com/CoinSpace/CoinSpace) ⭐ 458 | 🐛 21 | 🌐 Vue | 📅 2026-08-21 - A self-custodial multicurrency wallet for multiple platforms (Windows, macOS and Linux).
+* 🔵 [Electron Cash CashToken](https://electroncash.org) [\[release\]](https://github.com/Electron-Cash/Electron-Cash/releases/tag/4.3.0) ⭐ 388 | 🐛 436 | 🌐 Python | 📅 2026-08-21 [\[code\]](https://github.com/Electron-Cash/Electron-Cash/) ⭐ 388 | 🐛 436 | 🌐 Python | 📅 2026-08-21 - Electron Cash with CashTokens.
 * 🔵 [Cashonize (quasar)](https://github.com/cashonize/cashonize-wallet/tags) ⭐ 18 | 🐛 83 | 🌐 TypeScript | 📅 2026-08-20 [\[code\]](https://github.com/cashonize/cashonize-wallet) ⭐ 18 | 🐛 83 | 🌐 TypeScript | 📅 2026-08-20 - Cashonize rewrite with Quasar & Vue-js
 * [Flowee Pay](https://flowee.org/products/pay/) [\[code\]](https://codeberg.org/flowee/pay) - A payment solution, a wallet, a basis for your new product. But currently just a desktop wallet.
 
@@ -104,14 +104,14 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 ### Browser
 
-* [Coin Wallet](https://coin.space/) [\[code\]](https://github.com/CoinSpace/CoinSpace) ⭐ 459 | 🐛 21 | 🌐 Vue | 📅 2026-08-20 - A self-custodial multicurrency wallet for multiple platforms (Web and Tor).
+* [Coin Wallet](https://coin.space/) [\[code\]](https://github.com/CoinSpace/CoinSpace) ⭐ 458 | 🐛 21 | 🌐 Vue | 📅 2026-08-21 - A self-custodial multicurrency wallet for multiple platforms (Web and Tor).
 * 🔵 [Cashonize](https://cashonize.com/) [\[code\]](https://github.com/cashonize/cashonize-wallet) ⭐ 18 | 🐛 83 | 🌐 TypeScript | 📅 2026-08-20 -  An experimental web wallet for CashTokens.
 * [BCH Merchant PoS](https://pos.cash) [\[code\]](https://github.com/softwareverde/pos-cash) ⭐ 9 | 🐛 1 | 🌐 JavaScript | 📅 2024-04-11 - Bitcoin Cash Web Point of Sale, from SoftwareVerde.
 * [PSF wallet](https://wallet.fullstack.cash/) [\[code\]](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) ⭐ 6 | 🐛 7 | 🌐 JavaScript | 📅 2023-07-13 - An web wallet with SLP support.
 
 ### Paper/Offline Generator
 
-* [Bitcoin.com Paper Wallet](https://paperwallet.bitcoin.com/) [\[code\]](https://github.com/Bitcoin-com/paperwallet.bitcoin.com) ⭐ 101 | 🐛 8 | 🌐 HTML | 📅 2022-02-16 - A fork of the cashaddress.org paper wallet
+* [Bitcoin.com Paper Wallet](https://paperwallet.bitcoin.com/) [\[code\]](https://github.com/Bitcoin-com/paperwallet.bitcoin.com) ⭐ 102 | 🐛 8 | 🌐 HTML | 📅 2022-02-16 - A fork of the cashaddress.org paper wallet
 * [Cash Address Generator](https://cashaddress.org/) [\[code\]](https://github.com/theantnest/bccaddress) ⭐ 91 | 🐛 3 | 🌐 HTML | 📅 2026-04-13 - reputable javascript address generator suitable for offline use.
 * [Stamps](https://stamps.cash/#/) [\[code\]](https://github.com/harvmaster/CashStamps) ⭐ 6 | 🐛 3 | 🌐 Vue | 📅 2026-08-21 - Create reclaimable BCH wallets
 * [Paytaca Paper Wallet](https://paperwallet.paytaca.com/#/)  [\[code\]](https://github.com/paytaca/paperwallet) ⭐ 2 | 🐛 0 | 🌐 Vue | 📅 2026-08-06 - Generate stylish and secure Bitcoin Cash (BCH) paper wallets.
@@ -207,7 +207,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 ### More decentralized
 
 * [Thorchain Swap](https://app.thorswap.finance/) - Swap native assets directly with any non-custodial wallet across nine blockchains.
-* [BasicSwapdex](https://basicswapdex.com) [\[code\]](https://github.com/basicswap/basicswap) ⭐ 322 | 🐛 62 | 🌐 Python | 📅 2026-08-18 - Atomic swap DEX with BitcoinCash support
+* [BasicSwapdex](https://basicswapdex.com) [\[code\]](https://github.com/basicswap/basicswap) ⭐ 322 | 🐛 63 | 🌐 Python | 📅 2026-08-18 - Atomic swap DEX with BitcoinCash support
 
 ### Faucets
 
@@ -286,7 +286,7 @@ These are other projects dedicated to listing projects in the Bitcoin Cash ecosy
 
 ## 💚🤝🧡 Bitcoin Cash × Monero 🧡🤝💚
 
-* [BasicSwapdex](https://basicswapdex.com) [\[code\]](https://github.com/basicswap/basicswap) ⭐ 322 | 🐛 62 | 🌐 Python | 📅 2026-08-18 - Atomic swap DEX with BitcoinCash support
+* [BasicSwapdex](https://basicswapdex.com) [\[code\]](https://github.com/basicswap/basicswap) ⭐ 322 | 🐛 63 | 🌐 Python | 📅 2026-08-18 - Atomic swap DEX with BitcoinCash support
 * [AxeSwap](https://axeswap.net) [\[code\]](https://github.com/mainnet-pat/axeswap) ⭐ 8 | 🐛 3 | 🌐 TypeScript | 📅 2025-12-09 [\[docs\]](https://axeswap.net/docs) - Trustless Monero and Bitcoin Cash atomic cross-chain exchange.
 * [monujo.cash](https://monujo.vercel.app/) - Fork of Cashonize webwallet for Monero.
 
@@ -332,7 +332,7 @@ Just some good charities for the world at large.
 
 ### Point of Sale Clients
 
-* 🔵 [Paytaca](https://www.paytaca.com/) [\[apk\]](https://github.com/paytaca/paytaca-app/releases) ⭐ 57 | 🐛 5 | 🌐 Vue | 📅 2026-08-20 [\[code\]](https://github.com/paytaca/paytaca-app) ⭐ 57 | 🐛 5 | 🌐 Vue | 📅 2026-08-20 - A mobile wallet with integrated POS.
+* 🔵 [Paytaca](https://www.paytaca.com/) [\[apk\]](https://github.com/paytaca/paytaca-app/releases) ⭐ 57 | 🐛 5 | 🌐 Vue | 📅 2026-08-21 [\[code\]](https://github.com/paytaca/paytaca-app) ⭐ 57 | 🐛 5 | 🌐 Vue | 📅 2026-08-21 - A mobile wallet with integrated POS.
 * [pos.cash](https://pos.cash) [\[code\]](https://github.com/softwareverde/pos-cash) ⭐ 9 | 🐛 1 | 🌐 JavaScript | 📅 2024-04-11 - a non-custodial web-based point of sale BCH client.
 
 ### Non-Custodial Payment Processors
@@ -369,7 +369,7 @@ Just some good charities for the world at large.
 
 [Bitcoin Cash Standards](https://bitcoincashstandards.org) is a site dedicated to collecting, some of which are listed below:
 
-* [Payment Requests Specification (BIP-0070)](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) ⭐ 10,923 | 🐛 50 | 🌐 Wikitext | 📅 2026-08-20 - For dealing with invoice style payments at specific amounts.
+* [Payment Requests Specification (BIP-0070)](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) ⭐ 10,923 | 🐛 53 | 🌐 Wikitext | 📅 2026-08-20 - For dealing with invoice style payments at specific amounts.
 * [CashFusion](https://cashfusion.org) [\[spec\]](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md) ⭐ 25 | 🐛 11 | 📅 2020-09-07 - a privacy protocol for privately and trustlessly joining coin amounts.
 * 🔵 [CashTokens](https://cashtokens.org/) [\[code\]](https://github.com/cashtokens/cashtokens.org) ⭐ 20 | 🐛 4 | 🌐 JavaScript | 📅 2025-10-14 - Specification for CashTokens.
 * [Electrum Cash Protocol (Fulcrum)](https://electrum-cash-protocol.readthedocs.io/en/latest/) [\[code\]](https://github.com/cculianu/electrum-cash-protocol) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-05-08 - ElectrumX Protocol for [fulcrum](https://fulcrumserver.org) (UTXO indexer/SPV service).
@@ -628,4 +628,4 @@ The Permissionless Software Foundation is actively maintaining an SLP wallet and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
