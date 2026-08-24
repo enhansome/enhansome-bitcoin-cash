@@ -65,10 +65,10 @@
                 "archived": false,
                 "id": 231816914,
                 "language": "Dart",
-                "last_commit": "2026-08-23T19:28:47Z",
+                "last_commit": "2026-08-24T14:39:58Z",
                 "owner": "cake-tech",
                 "repo": "cake_wallet",
-                "stars": 1866
+                "stars": 1868
               }
             },
             {
@@ -80,7 +80,7 @@
                 "archived": false,
                 "id": 33124337,
                 "language": "Vue",
-                "last_commit": "2026-08-21T19:01:20Z",
+                "last_commit": "2026-08-24T13:56:46Z",
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
                 "stars": 458
@@ -98,7 +98,7 @@
                 "last_commit": "2026-08-22T12:13:42Z",
                 "owner": "cypherstack",
                 "repo": "stack_wallet",
-                "stars": 449
+                "stars": 450
               }
             },
             {
@@ -125,7 +125,7 @@
                 "archived": false,
                 "id": 321209306,
                 "language": "Vue",
-                "last_commit": "2026-08-23T15:01:49Z",
+                "last_commit": "2026-08-24T10:41:44Z",
                 "owner": "paytaca",
                 "repo": "paytaca-app",
                 "stars": 57
@@ -162,7 +162,7 @@
                 "archived": false,
                 "id": 33124337,
                 "language": "Vue",
-                "last_commit": "2026-08-21T19:01:20Z",
+                "last_commit": "2026-08-24T13:56:46Z",
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
                 "stars": 458
@@ -341,7 +341,7 @@
                 "archived": false,
                 "id": 33124337,
                 "language": "Vue",
-                "last_commit": "2026-08-21T19:01:20Z",
+                "last_commit": "2026-08-24T13:56:46Z",
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
                 "stars": 458
@@ -489,6 +489,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "issues.cash",
+              "description": "[code] - Bounty platform on Bitcoin Cash",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1108472286,
+                "language": "TypeScript",
+                "last_commit": "2026-05-11T18:16:31Z",
+                "owner": "dlbnco",
+                "repo": "issues.cash",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Apps (Social)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "FundMe.Cash",
               "description": "[contracts] - A non-custodial crowd funding using BCH smart contracts.",
               "children": [],
@@ -579,9 +601,81 @@
           "description": null,
           "node_type": "group",
           "title": "Bitcoin Cash Dapps [a-z]"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🔵 bchpump",
+              "description": ", xPump [code] - A token launchpad on BitcoinCash network.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1020686245,
+                "language": "TypeScript",
+                "last_commit": "2025-08-05T18:26:20Z",
+                "owner": "mainnet-pat",
+                "repo": "SushiBar",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Collectables"
         }
       ],
       "title": "BCH Native Decentralized Finance"
+    },
+    {
+      "description": "Bitcoin Cash is supported on hundreds of exchanges, these are a few.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BasicSwapdex",
+              "description": "[code] - Atomic swap DEX with BitcoinCash support",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197412629,
+                "language": "Python",
+                "last_commit": "2026-08-24T07:13:25Z",
+                "owner": "basicswap",
+                "repo": "basicswap",
+                "stars": 322
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "More decentralized"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BCH Testnet Faucet [code]",
+              "description": "Fullstack.cash faucet for tBCH.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254542170,
+                "language": "JavaScript",
+                "last_commit": "2023-01-05T10:54:06Z",
+                "owner": "christroutner",
+                "repo": "testnet-faucet2",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Faucets"
+        }
+      ],
+      "title": "Exchanges"
     },
     {
       "description": null,
@@ -880,10 +974,10 @@
             "archived": false,
             "id": 197412629,
             "language": "Python",
-            "last_commit": "2026-08-24T01:26:31Z",
+            "last_commit": "2026-08-24T07:13:25Z",
             "owner": "basicswap",
             "repo": "basicswap",
-            "stars": 323
+            "stars": 322
           }
         },
         {
@@ -955,7 +1049,7 @@
                 "archived": false,
                 "id": 321209306,
                 "language": "Vue",
-                "last_commit": "2026-08-23T15:01:49Z",
+                "last_commit": "2026-08-24T10:41:44Z",
                 "owner": "paytaca",
                 "repo": "paytaca-app",
                 "stars": 57
@@ -980,6 +1074,28 @@
           "description": null,
           "node_type": "group",
           "title": "Point of Sale Clients"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cash Pay Server",
+              "description": "[docs] - a self-hostable NodeJS micro-service that can be used to handle BIP70 and JSON Payment Protocol invoices for Bitcoin Cash (BCH)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 265220366,
+                "language": "JavaScript",
+                "last_commit": "2023-01-07T18:20:29Z",
+                "owner": "developers-cash",
+                "repo": "cash-pay-server-js",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Non-Custodial Payment Processors"
         }
       ],
       "title": "eCommerce Merchant Resources"
@@ -1281,6 +1397,185 @@
           "description": null,
           "node_type": "group",
           "title": "Tooling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AuthGuard",
+              "description": "A standard for authchain management which makes updating the authchain more secure and convenient. Mathieu Geukens 🔵 .cash announcement",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 676479275,
+                "language": "Solidity",
+                "last_commit": "2023-11-23T10:35:30Z",
+                "owner": "mr-zwets",
+                "repo": "AuthGuard",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BadgersStake",
+              "description": "A decentralized staking contract for BitcoinCash.Sayoshi Nakamario 🔵 .cash",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 848420806,
+                "language": null,
+                "last_commit": "2024-12-30T20:54:33Z",
+                "owner": "SayoshiNakamario",
+                "repo": "BadgersStake",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BitCANN",
+              "description": "a decentralized domain name and identity system kiok .cash announcement",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 925964633,
+                "language": "TypeScript",
+                "last_commit": "2026-07-18T06:35:57Z",
+                "owner": "BitCANN",
+                "repo": "bitcann-contracts",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CashNinjas",
+              "description": "Multi-threaded NFT minting contract Mathieu Geukens 🔵 .cash",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 679412547,
+                "language": "TypeScript",
+                "last_commit": "2025-10-08T13:26:24Z",
+                "owner": "cashninjas",
+                "repo": "minting-contract",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CashStarter",
+              "description": "A decentralized crowdfunding system built on BitcoinCash. Sayoshi Nakamario 🔵 .cash",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 810557117,
+                "language": "Solidity",
+                "last_commit": "2025-05-31T04:41:11Z",
+                "owner": "SayoshiNakamario",
+                "repo": "CashStarter",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Emerald DAO",
+              "description": "[CLOSED FUND] A fixed-term deposit savings vault using NFTs with crowdfunded rewards. BCA with help from mainnet-pat 🔵 .cash, code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 639763537,
+                "language": "TypeScript",
+                "last_commit": "2023-06-15T12:55:58Z",
+                "owner": "mainnet-pat",
+                "repo": "emerald_dao",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HODL Plugin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379203973,
+                "language": "Python",
+                "last_commit": "2021-06-25T18:12:05Z",
+                "owner": "mainnet-pat",
+                "repo": "hodl_ec_plugin",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "plugin for Electron Cash to timelock the funds. mainnet-pat",
+              "description": "~.cash, BitcoinScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379203973,
+                "language": "Python",
+                "last_commit": "2021-06-25T18:12:05Z",
+                "owner": "mainnet-pat",
+                "repo": "hodl_ec_plugin",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenCashDAO",
+              "description": "A Decentralized Autonomous Organization (DAO) template kiok .cash announcement",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 938364685,
+                "language": "Solidity",
+                "last_commit": "2025-04-27T07:21:29Z",
+                "owner": "OpenCashDAO",
+                "repo": "opencashdao-contracts",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unspent Phi",
+              "description": "Seven simple anyone-can-spend contracts. 2qx .cash src",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 520198745,
+                "language": "CSS",
+                "last_commit": "2025-02-14T19:27:20Z",
+                "owner": "2qx",
+                "repo": "unspent",
+                "stars": 4
+              }
+            }
+          ],
+          "description": "Below is a list of projects using CashScript and/or BitcoinScript.\nCashScript is a \"transpiler\" for BitcoinScript. Developers can write CashScript and then use to transform it into the BitcoinScript language Satoshi developed.",
+          "node_type": "group",
+          "title": "Bitcoin Script Projects"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Examples in documentation",
+              "description": "and examples in the CashScript github.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184497209,
+                "language": "TypeScript",
+                "last_commit": "2026-08-20T10:05:19Z",
+                "owner": "CashScript",
+                "repo": "cashscript",
+                "stars": 134
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "See Also"
         }
       ],
       "title": "Script"
@@ -1329,7 +1624,7 @@
                 "archived": false,
                 "id": 1007599554,
                 "language": "C++",
-                "last_commit": "2026-08-23T22:51:41Z",
+                "last_commit": "2026-08-24T14:05:07Z",
                 "owner": "k-nuth",
                 "repo": "kth",
                 "stars": 6
@@ -1381,7 +1676,51 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "cculianu/asicseer-pool",
+              "description": "ASICseer Pool: Fast, C-based, multithreaded mining pool software for Bitcoin Cash",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245358186,
+                "language": "C",
+                "last_commit": "2026-07-20T04:43:01Z",
+                "owner": "cculianu",
+                "repo": "asicseer-pool",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mining"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🔵 mainnet",
+              "description": "[tutorial] [rest spec] - Typescript library, also available via rest api, or python, golang, php clients, et. al",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308403534,
+                "language": "Python",
+                "last_commit": "2026-07-09T20:28:37Z",
+                "owner": "mainnet-cash",
+                "repo": "mainnet-python-generated",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Language Agnostic"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "qr-code",
               "description": "[demo] – A no-framework, no-dependencies, customizable, animate-able, SVG-based HTML element.",
               "children": [],
               "repo_info": {
@@ -1562,6 +1901,72 @@
           "description": null,
           "node_type": "group",
           "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Breadwallet Core",
+              "description": "SPV bitcoin C library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37500549,
+                "language": "C",
+                "last_commit": "2024-04-02T14:29:17Z",
+                "owner": "breadwallet",
+                "repo": "breadwallet-core",
+                "stars": 282
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BitcoinCashClient",
+              "description": "Simple C# Library for Bitcoin Cash",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 567895357,
+                "language": "C#",
+                "last_commit": "2026-01-21T01:47:30Z",
+                "owner": "david-shattuck",
+                "repo": "BitcoinCashClient",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C#"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cashp",
+              "description": "Library for BCH.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193613287,
+                "language": "PHP",
+                "last_commit": "2023-01-07T11:57:32Z",
+                "owner": "Ekliptor",
+                "repo": "cashp",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PHP"
         }
       ],
       "title": "Software"
@@ -1602,6 +2007,28 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "539b2a492002da881a9ef9aa6604327299c7a498",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 459820453,
+                "language": null,
+                "last_commit": "2023-05-20T02:45:32Z",
+                "owner": "cashtokens",
+                "repo": "cashtokens",
+                "stars": 57
+              }
+            }
+          ],
+          "description": "Due to the nature of bitcoin, some stuff is forever...",
+          "node_type": "group",
+          "title": "The CashTokens and P2SH32 CHIP Proposals for the May 2023 BCH Upgrade are AWESOME!"
+        },
+        {
+          "children": [
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -1637,6 +2064,28 @@
               "description": null,
               "node_type": "group",
               "title": "Protocols"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "🔵 BitcoinUnlimited",
+                  "description": "[code] - a full node implentation focused on supporting user needs, C/C++.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 18613259,
+                    "language": "C++",
+                    "last_commit": "2024-11-01T18:40:26Z",
+                    "owner": "BitcoinUnlimited",
+                    "repo": "BitcoinUnlimited",
+                    "stars": 502
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Full Node Softwares"
             },
             {
               "children": [
@@ -1784,8 +2233,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "⭐ PSF wallet ⭐ [code]",
-                  "description": "An web wallet with SLP support.",
+                  "title": "⭐ PSF wallet ⭐",
+                  "description": "[code] - An web wallet with SLP support.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1812,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:26:01.160Z",
+    "last_updated": "2026-08-24T14:48:36.444Z",
     "original_repository": "2qx/awesome-bitcoin-cash",
     "original_repository_id": 263089151,
     "original_repository_sha": "8c94ef48b8ea52e6e753596c2ed3143360eabe1b",
