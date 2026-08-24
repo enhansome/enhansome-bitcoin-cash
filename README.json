@@ -65,10 +65,10 @@
                 "archived": false,
                 "id": 231816914,
                 "language": "Dart",
-                "last_commit": "2026-08-22T21:21:04Z",
+                "last_commit": "2026-08-23T19:28:47Z",
                 "owner": "cake-tech",
                 "repo": "cake_wallet",
-                "stars": 1865
+                "stars": 1866
               }
             },
             {
@@ -98,7 +98,7 @@
                 "last_commit": "2026-08-22T12:13:42Z",
                 "owner": "cypherstack",
                 "repo": "stack_wallet",
-                "stars": 447
+                "stars": 449
               }
             },
             {
@@ -125,7 +125,7 @@
                 "archived": false,
                 "id": 321209306,
                 "language": "Vue",
-                "last_commit": "2026-08-23T02:01:12Z",
+                "last_commit": "2026-08-23T15:01:49Z",
                 "owner": "paytaca",
                 "repo": "paytaca-app",
                 "stars": 57
@@ -140,7 +140,7 @@
                 "archived": false,
                 "id": 745048424,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T18:44:22Z",
+                "last_commit": "2026-08-23T18:04:40Z",
                 "owner": "cashonize",
                 "repo": "cashonize-wallet",
                 "stars": 18
@@ -192,7 +192,7 @@
                 "archived": false,
                 "id": 745048424,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T18:44:22Z",
+                "last_commit": "2026-08-23T18:04:40Z",
                 "owner": "cashonize",
                 "repo": "cashonize-wallet",
                 "stars": 18
@@ -356,7 +356,7 @@
                 "archived": false,
                 "id": 745048424,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T18:44:22Z",
+                "last_commit": "2026-08-23T18:04:40Z",
                 "owner": "cashonize",
                 "repo": "cashonize-wallet",
                 "stars": 18
@@ -880,10 +880,10 @@
             "archived": false,
             "id": 197412629,
             "language": "Python",
-            "last_commit": "2026-08-18T18:53:20Z",
+            "last_commit": "2026-08-24T01:26:31Z",
             "owner": "basicswap",
             "repo": "basicswap",
-            "stars": 322
+            "stars": 323
           }
         },
         {
@@ -955,7 +955,7 @@
                 "archived": false,
                 "id": 321209306,
                 "language": "Vue",
-                "last_commit": "2026-08-23T02:01:12Z",
+                "last_commit": "2026-08-23T15:01:49Z",
                 "owner": "paytaca",
                 "repo": "paytaca-app",
                 "stars": 57
@@ -1329,7 +1329,7 @@
                 "archived": false,
                 "id": 1007599554,
                 "language": "C++",
-                "last_commit": "2026-08-20T15:41:53Z",
+                "last_commit": "2026-08-23T22:51:41Z",
                 "owner": "k-nuth",
                 "repo": "kth",
                 "stars": 6
@@ -1354,7 +1354,7 @@
                 "last_commit": "2026-08-20T22:41:54Z",
                 "owner": "cculianu",
                 "repo": "Fulcrum",
-                "stars": 492
+                "stars": 493
               }
             },
             {
@@ -1812,7 +1812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:26:17.093Z",
+    "last_updated": "2026-08-24T02:26:01.160Z",
     "original_repository": "2qx/awesome-bitcoin-cash",
     "original_repository_id": 263089151,
     "original_repository_sha": "8c94ef48b8ea52e6e753596c2ed3143360eabe1b",
