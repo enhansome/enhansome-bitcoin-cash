@@ -1117,7 +1117,7 @@
                 "last_commit": "2024-04-02T13:55:53Z",
                 "owner": "SoftwareVerde",
                 "repo": "bitcoin-cash-specification",
-                "stars": 8
+                "stars": 9
               }
             },
             {
@@ -1624,7 +1624,7 @@
                 "archived": false,
                 "id": 1007599554,
                 "language": "C++",
-                "last_commit": "2026-08-24T20:39:35Z",
+                "last_commit": "2026-08-25T06:08:40Z",
                 "owner": "k-nuth",
                 "repo": "kth",
                 "stars": 7
@@ -1649,7 +1649,7 @@
                 "last_commit": "2026-08-20T22:41:54Z",
                 "owner": "cculianu",
                 "repo": "Fulcrum",
-                "stars": 493
+                "stars": 494
               }
             },
             {
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:21:26.128Z",
+    "last_updated": "2026-08-25T06:39:14.389Z",
     "original_repository": "2qx/awesome-bitcoin-cash",
     "original_repository_id": 263089151,
     "original_repository_sha": "8c94ef48b8ea52e6e753596c2ed3143360eabe1b",

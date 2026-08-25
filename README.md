@@ -358,7 +358,7 @@ Just some good charities for the world at large.
 
 ### Base Protocol
 
-* [Bitcoin Cash Protocol Documentation](https://documentation.cash/) [\[code\]](https://github.com/SoftwareVerde/bitcoin-cash-specification) ⭐ 8 | 🐛 12 | 🌐 Python | 📅 2024-04-02 - maintained by Software Verde.
+* [Bitcoin Cash Protocol Documentation](https://documentation.cash/) [\[code\]](https://github.com/SoftwareVerde/bitcoin-cash-specification) ⭐ 9 | 🐛 12 | 🌐 Python | 📅 2024-04-02 - maintained by Software Verde.
 * [Upgrade History](https://minisatoshi.cash/upgrade-history) [\[src\]](https://github.com/minisat0shi/minisatoshi.cash) ⭐ 8 | 🐛 9 | 🌐 HTML | 📅 2026-08-03 - Full history of Bitcoin (Cash) upgrades since 2009 including future proposals
 * ⭐[BCH Specification](https://flowee.org/docs/spec/) - Specification hosted by flowee.org.⭐
 * [reference.cash](https://reference.cash) - protocol documentation
@@ -468,13 +468,13 @@ Below is a list of projects using CashScript and/or BitcoinScript.
 
 * 🔵 [bchd](https://bchd.cash/) [\[code\]](https://github.com/gcash/bchd) ⭐ 291 | 🐛 19 | 🌐 Go | 📅 2026-08-22 [\[docs\]](https://github.com/gcash/bchd/tree/master/docs) ⭐ 291 | 🐛 19 | 🌐 Go | 📅 2026-08-22 - alternative implementation written in Go (golang)
 * 🔵 [Bitcoin Verde](https://bitcoinverde.org/) [\[code\]](https://github.com/softwareverde/bitcoin-verde) ⭐ 51 | 🐛 3 | 🌐 Java | 📅 2025-06-05 [\[docs\]](https://explorer.bitcoinverde.org/documentation/) - java implementation with the goal of being interoperable with mining nodes.
-* 🔵 [Knuth](https://kth.cash/) [\[code\]](https://github.com/k-nuth/kth) ⭐ 7 | 🐛 138 | 🌐 C++ | 📅 2026-08-24 - a high performance implementation of the Bitcoin protocol focused on applications needing extra capacity and resilience.
+* 🔵 [Knuth](https://kth.cash/) [\[code\]](https://github.com/k-nuth/kth) ⭐ 7 | 🐛 138 | 🌐 C++ | 📅 2026-08-25 - a high performance implementation of the Bitcoin protocol focused on applications needing extra capacity and resilience.
 * 🔵 [BCHN](https://bitcoincashnode.org/) [\[code\]](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node) [\[docs\]](https://docs.bitcoincashnode.org/) - a descendant of the Bitcoin Core and Bitcoin ABC software projects with independent development team. C/C++.
 * 🔵 [Flowee the Hub](https://flowee.org/) [\[code\]](https://codeberg.org/Flowee/thehub) - a node supporting a suite of software focused on payment integration. C++
 
 ### Indexers Simple Payment Verification (SPV)
 
-* 🔵 [Fulcrum](https://fulcrumserver.org) [\[repos\]](https://github.com/cculianu/Fulcrum/) ⭐ 493 | 🐛 64 | 🌐 C++ | 📅 2026-08-20 - A fast & nimble SPV Server for Bitcoin Cash.
+* 🔵 [Fulcrum](https://fulcrumserver.org) [\[repos\]](https://github.com/cculianu/Fulcrum/) ⭐ 494 | 🐛 64 | 🌐 C++ | 📅 2026-08-20 - A fast & nimble SPV Server for Bitcoin Cash.
 * 🔵 [bchc](https://github.com/PayButton/bchc) ⭐ 9 | 🐛 1 | 🌐 C++ | 📅 2026-05-15  - A high performance full node & indexer for Bitcoin Cash.
 * 🔵 [Rostrum](https://gitlab.com/bitcoinunlimited/rostrum) - Rostrum is an efficient implementation of Electrum Server written in Rust.
 
