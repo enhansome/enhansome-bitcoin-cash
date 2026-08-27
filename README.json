@@ -65,10 +65,10 @@
                 "archived": false,
                 "id": 231816914,
                 "language": "Dart",
-                "last_commit": "2026-08-25T22:41:23Z",
+                "last_commit": "2026-08-27T10:28:27Z",
                 "owner": "cake-tech",
                 "repo": "cake_wallet",
-                "stars": 1868
+                "stars": 1873
               }
             },
             {
@@ -80,7 +80,7 @@
                 "archived": false,
                 "id": 33124337,
                 "language": "Vue",
-                "last_commit": "2026-08-24T13:56:46Z",
+                "last_commit": "2026-08-26T13:04:41Z",
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
                 "stars": 458
@@ -95,10 +95,10 @@
                 "archived": false,
                 "id": 529170413,
                 "language": "Dart",
-                "last_commit": "2026-08-25T18:02:39Z",
+                "last_commit": "2026-08-26T23:22:57Z",
                 "owner": "cypherstack",
                 "repo": "stack_wallet",
-                "stars": 450
+                "stars": 451
               }
             },
             {
@@ -113,7 +113,7 @@
                 "last_commit": "2026-08-21T17:59:11Z",
                 "owner": "Electron-Cash",
                 "repo": "Electron-Cash",
-                "stars": 388
+                "stars": 389
               }
             },
             {
@@ -125,7 +125,7 @@
                 "archived": false,
                 "id": 321209306,
                 "language": "Vue",
-                "last_commit": "2026-08-25T10:18:01Z",
+                "last_commit": "2026-08-27T04:52:55Z",
                 "owner": "paytaca",
                 "repo": "paytaca-app",
                 "stars": 57
@@ -162,7 +162,7 @@
                 "archived": false,
                 "id": 33124337,
                 "language": "Vue",
-                "last_commit": "2026-08-24T13:56:46Z",
+                "last_commit": "2026-08-26T13:04:41Z",
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
                 "stars": 458
@@ -180,7 +180,7 @@
                 "last_commit": "2026-08-21T17:59:11Z",
                 "owner": "Electron-Cash",
                 "repo": "Electron-Cash",
-                "stars": 388
+                "stars": 389
               }
             },
             {
@@ -341,7 +341,7 @@
                 "archived": false,
                 "id": 33124337,
                 "language": "Vue",
-                "last_commit": "2026-08-24T13:56:46Z",
+                "last_commit": "2026-08-26T13:04:41Z",
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
                 "stars": 458
@@ -641,7 +641,7 @@
                 "archived": false,
                 "id": 197412629,
                 "language": "Python",
-                "last_commit": "2026-08-25T13:48:35Z",
+                "last_commit": "2026-08-27T11:06:06Z",
                 "owner": "basicswap",
                 "repo": "basicswap",
                 "stars": 322
@@ -974,7 +974,7 @@
             "archived": false,
             "id": 197412629,
             "language": "Python",
-            "last_commit": "2026-08-25T13:48:35Z",
+            "last_commit": "2026-08-27T11:06:06Z",
             "owner": "basicswap",
             "repo": "basicswap",
             "stars": 322
@@ -1049,7 +1049,7 @@
                 "archived": false,
                 "id": 321209306,
                 "language": "Vue",
-                "last_commit": "2026-08-25T10:18:01Z",
+                "last_commit": "2026-08-27T04:52:55Z",
                 "owner": "paytaca",
                 "repo": "paytaca-app",
                 "stars": 57
@@ -1154,7 +1154,7 @@
                 "last_commit": "2026-08-20T17:14:27Z",
                 "owner": "bitcoin",
                 "repo": "bips",
-                "stars": 10927
+                "stars": 10928
               }
             },
             {
@@ -1594,7 +1594,7 @@
                 "archived": false,
                 "id": 148558591,
                 "language": "Go",
-                "last_commit": "2026-08-25T17:49:29Z",
+                "last_commit": "2026-08-26T23:57:43Z",
                 "owner": "gcash",
                 "repo": "bchd",
                 "stars": 291
@@ -1624,7 +1624,7 @@
                 "archived": false,
                 "id": 1007599554,
                 "language": "C++",
-                "last_commit": "2026-08-25T07:40:57Z",
+                "last_commit": "2026-08-26T17:31:14Z",
                 "owner": "k-nuth",
                 "repo": "kth",
                 "stars": 7
@@ -1649,7 +1649,7 @@
                 "last_commit": "2026-08-20T22:41:54Z",
                 "owner": "cculianu",
                 "repo": "Fulcrum",
-                "stars": 494
+                "stars": 495
               }
             },
             {
@@ -2261,9 +2261,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:36:28.357Z",
-    "original_repository": "2qx/awesome-bitcoin-cash",
-    "original_repository_id": 263089151,
+    "last_updated": "2026-08-27T11:08:01.574Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 263089151,
+      "language": "JavaScript",
+      "last_commit": "2026-08-19T13:45:51Z",
+      "owner": "2qx",
+      "repo": "awesome-bitcoin-cash",
+      "stars": 50
+    },
     "original_repository_sha": "8c94ef48b8ea52e6e753596c2ed3143360eabe1b",
     "enhanced_repository": "enhansome/enhansome-bitcoin-cash",
     "enhanced_repository_description": null,
