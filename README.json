@@ -16,7 +16,8 @@
             "owner": "treeman",
             "repo": "why_cryptocurrencies",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "minisat0shi",
             "repo": "minisatoshi.cash",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "fixthetracking",
             "repo": "Bitcoin-Cash-FAQ",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         }
       ],
       "title": "Getting Started"
@@ -65,11 +68,12 @@
                 "archived": false,
                 "id": 231816914,
                 "language": "Dart",
-                "last_commit": "2026-08-27T10:28:27Z",
+                "last_commit": "2026-08-28T10:46:03Z",
                 "owner": "cake-tech",
                 "repo": "cake_wallet",
                 "stars": 1873
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -80,11 +84,12 @@
                 "archived": false,
                 "id": 33124337,
                 "language": "Vue",
-                "last_commit": "2026-08-26T13:04:41Z",
+                "last_commit": "2026-08-28T12:31:04Z",
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
                 "stars": 458
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -95,11 +100,12 @@
                 "archived": false,
                 "id": 529170413,
                 "language": "Dart",
-                "last_commit": "2026-08-26T23:22:57Z",
+                "last_commit": "2026-08-28T03:46:49Z",
                 "owner": "cypherstack",
                 "repo": "stack_wallet",
-                "stars": 451
-              }
+                "stars": 452
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -113,8 +119,9 @@
                 "last_commit": "2026-08-21T17:59:11Z",
                 "owner": "Electron-Cash",
                 "repo": "Electron-Cash",
-                "stars": 389
-              }
+                "stars": 390
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -125,11 +132,12 @@
                 "archived": false,
                 "id": 321209306,
                 "language": "Vue",
-                "last_commit": "2026-08-27T04:52:55Z",
+                "last_commit": "2026-08-28T08:55:12Z",
                 "owner": "paytaca",
                 "repo": "paytaca-app",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -140,11 +148,12 @@
                 "archived": false,
                 "id": 745048424,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T18:04:40Z",
+                "last_commit": "2026-08-27T19:26:06Z",
                 "owner": "cashonize",
                 "repo": "cashonize-wallet",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -162,11 +171,12 @@
                 "archived": false,
                 "id": 33124337,
                 "language": "Vue",
-                "last_commit": "2026-08-26T13:04:41Z",
+                "last_commit": "2026-08-28T12:31:04Z",
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
                 "stars": 458
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -180,8 +190,9 @@
                 "last_commit": "2026-08-21T17:59:11Z",
                 "owner": "Electron-Cash",
                 "repo": "Electron-Cash",
-                "stars": 389
-              }
+                "stars": 390
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -192,11 +203,12 @@
                 "archived": false,
                 "id": 745048424,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T18:04:40Z",
+                "last_commit": "2026-08-27T19:26:06Z",
                 "owner": "cashonize",
                 "repo": "cashonize-wallet",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "children": [
@@ -213,7 +225,8 @@
                     "owner": "KarolTrzeszczkowski",
                     "repo": "Electron-Cash-Last-Will-Plugin",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:40:14.338Z"
                 },
                 {
                   "node_type": "item",
@@ -228,7 +241,8 @@
                     "owner": "KarolTrzeszczkowski",
                     "repo": "Mecenas-recurring-payment-EC-plugin",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:40:14.338Z"
                 },
                 {
                   "node_type": "item",
@@ -243,7 +257,8 @@
                     "owner": "KarolTrzeszczkowski",
                     "repo": "Inter-Wallet-Transfer-EC-plugin",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:40:14.338Z"
                 },
                 {
                   "node_type": "item",
@@ -258,7 +273,8 @@
                     "owner": "Electron-Cash",
                     "repo": "Nostron",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:40:14.338Z"
                 },
                 {
                   "node_type": "item",
@@ -273,7 +289,8 @@
                     "owner": "OPReturnCode",
                     "repo": "Electron-Cash-Wallet-Connect",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:40:14.338Z"
                 },
                 {
                   "node_type": "item",
@@ -288,7 +305,8 @@
                     "owner": "mainnet-pat",
                     "repo": "hodl_ec_plugin",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:40:14.338Z"
                 },
                 {
                   "node_type": "item",
@@ -303,7 +321,8 @@
                     "owner": "TinosNitso",
                     "repo": "AutoCove-Plugin",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:40:14.338Z"
                 },
                 {
                   "node_type": "item",
@@ -318,7 +337,8 @@
                     "owner": "fyookball",
                     "repo": "js-libauth-integration-plugin",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:40:14.338Z"
                 }
               ],
               "description": null,
@@ -341,11 +361,12 @@
                 "archived": false,
                 "id": 33124337,
                 "language": "Vue",
-                "last_commit": "2026-08-26T13:04:41Z",
+                "last_commit": "2026-08-28T12:31:04Z",
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
                 "stars": 458
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -356,11 +377,12 @@
                 "archived": false,
                 "id": 745048424,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T18:04:40Z",
+                "last_commit": "2026-08-27T19:26:06Z",
                 "owner": "cashonize",
                 "repo": "cashonize-wallet",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -375,7 +397,8 @@
                 "owner": "SoftwareVerde",
                 "repo": "pos-cash",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -390,7 +413,8 @@
                 "owner": "Permissionless-Software-Foundation",
                 "repo": "gatsby-ipfs-web-wallet",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -412,7 +436,8 @@
                 "owner": "Bitcoin-com",
                 "repo": "paperwallet.bitcoin.com",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -427,7 +452,8 @@
                 "owner": "theantnest",
                 "repo": "bccaddress",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -442,7 +468,8 @@
                 "owner": "harvmaster",
                 "repo": "CashStamps",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -457,7 +484,8 @@
                 "owner": "paytaca",
                 "repo": "paperwallet",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -472,7 +500,8 @@
                 "owner": "KeepBitcoinFree-org",
                 "repo": "paper.keepbitcoinfree.org",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -500,7 +529,8 @@
                 "owner": "dlbnco",
                 "repo": "issues.cash",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -522,7 +552,8 @@
                 "owner": "SayoshiNakamario",
                 "repo": "CashStarter",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -537,7 +568,8 @@
                 "owner": "SoftwareVerde",
                 "repo": "flipstarter",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -565,7 +597,8 @@
                 "owner": "2qx",
                 "repo": "unspent",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -580,7 +613,8 @@
                 "owner": "SayoshiNakamario",
                 "repo": "BadgersStake",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -595,7 +629,8 @@
                 "owner": "2qx",
                 "repo": "future-bitcoin-cash",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -617,7 +652,8 @@
                 "owner": "mainnet-pat",
                 "repo": "SushiBar",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -641,11 +677,12 @@
                 "archived": false,
                 "id": 197412629,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:06:06Z",
+                "last_commit": "2026-08-28T06:40:31Z",
                 "owner": "basicswap",
                 "repo": "basicswap",
-                "stars": 322
-              }
+                "stars": 321
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -667,7 +704,8 @@
                 "owner": "christroutner",
                 "repo": "testnet-faucet2",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -693,7 +731,8 @@
             "owner": "jhoenicke",
             "repo": "mempool",
             "stars": 344
-          }
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         },
         {
           "node_type": "item",
@@ -708,7 +747,8 @@
             "owner": "txstreet",
             "repo": "txstreet",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         }
       ],
       "title": "Network"
@@ -729,7 +769,8 @@
             "owner": "sickpig",
             "repo": "bch-rpc-explorer",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         },
         {
           "node_type": "item",
@@ -744,7 +785,8 @@
             "owner": "bitauth",
             "repo": "chaingraph",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         },
         {
           "node_type": "item",
@@ -759,7 +801,8 @@
             "owner": "salemkode",
             "repo": "explorer",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         },
         {
           "node_type": "item",
@@ -774,7 +817,8 @@
             "owner": "rnbrady",
             "repo": "cashflow",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         },
         {
           "node_type": "item",
@@ -789,7 +833,8 @@
             "owner": "paytaca",
             "repo": "bitcoincash-explorer",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         },
         {
           "node_type": "item",
@@ -804,7 +849,8 @@
             "owner": "mainnet-pat",
             "repo": "blockbook",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         }
       ],
       "title": "Explorers"
@@ -825,7 +871,8 @@
             "owner": "chaintip",
             "repo": "bounties",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         },
         {
           "node_type": "item",
@@ -840,7 +887,8 @@
             "owner": "OpenTokenRegistry",
             "repo": "otr.cash",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         },
         {
           "node_type": "item",
@@ -855,7 +903,8 @@
             "owner": "developers-cash",
             "repo": "cashtags-server",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         },
         {
           "node_type": "item",
@@ -870,7 +919,8 @@
             "owner": "mainnet-pat",
             "repo": "ipfs-bch.pat.mn",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         },
         {
           "node_type": "item",
@@ -885,7 +935,8 @@
             "owner": "JesusPieceHoly",
             "repo": "tokenstork",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         }
       ],
       "title": "Services"
@@ -906,7 +957,8 @@
             "owner": "bitauth",
             "repo": "bitauth-ide",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         },
         {
           "node_type": "item",
@@ -921,7 +973,8 @@
             "owner": "mr-zwets",
             "repo": "airdrop-tool",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         }
       ],
       "title": "Utilities"
@@ -942,7 +995,8 @@
             "owner": "dsmurrell",
             "repo": "awesome-bitcoin-cash",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         },
         {
           "node_type": "item",
@@ -957,7 +1011,8 @@
             "owner": "minisat0shi",
             "repo": "minisatoshi.cash",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         }
       ],
       "title": "See Also"
@@ -974,11 +1029,12 @@
             "archived": false,
             "id": 197412629,
             "language": "Python",
-            "last_commit": "2026-08-27T11:06:06Z",
+            "last_commit": "2026-08-28T06:40:31Z",
             "owner": "basicswap",
             "repo": "basicswap",
-            "stars": 322
-          }
+            "stars": 321
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         },
         {
           "node_type": "item",
@@ -993,7 +1049,8 @@
             "owner": "mainnet-pat",
             "repo": "axeswap",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T12:40:14.338Z"
         }
       ],
       "title": "💚🤝🧡 Bitcoin Cash × Monero 🧡🤝💚"
@@ -1016,7 +1073,8 @@
                 "owner": "WeProgramIT",
                 "repo": "cryptowoo-bitcoin-cash-addon",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1031,7 +1089,8 @@
                 "owner": "paytaca",
                 "repo": "woocommerce-plugin",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -1049,11 +1108,12 @@
                 "archived": false,
                 "id": 321209306,
                 "language": "Vue",
-                "last_commit": "2026-08-27T04:52:55Z",
+                "last_commit": "2026-08-28T08:55:12Z",
                 "owner": "paytaca",
                 "repo": "paytaca-app",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1068,7 +1128,8 @@
                 "owner": "SoftwareVerde",
                 "repo": "pos-cash",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -1090,7 +1151,8 @@
                 "owner": "developers-cash",
                 "repo": "cash-pay-server-js",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -1118,7 +1180,8 @@
                 "owner": "SoftwareVerde",
                 "repo": "bitcoin-cash-specification",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1133,7 +1196,8 @@
                 "owner": "minisat0shi",
                 "repo": "minisatoshi.cash",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -1155,7 +1219,8 @@
                 "owner": "bitcoin",
                 "repo": "bips",
                 "stars": 10928
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1170,7 +1235,8 @@
                 "owner": "cashshuffle",
                 "repo": "spec",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1185,7 +1251,8 @@
                 "owner": "cashtokens",
                 "repo": "cashtokens.org",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1200,7 +1267,8 @@
                 "owner": "cculianu",
                 "repo": "electrum-cash-protocol",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1215,7 +1283,8 @@
                 "owner": "bitjson",
                 "repo": "chip-bcmr",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1230,7 +1299,8 @@
                 "owner": "mainnet-pat",
                 "repo": "wc2-bch-bcr",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": "Bitcoin Cash Standards is a site dedicated to collecting, some of which are listed below:",
@@ -1258,7 +1328,8 @@
                 "owner": "cashtokens",
                 "repo": "cashtokens",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1273,7 +1344,8 @@
                 "owner": "bitjson",
                 "repo": "bch-vm-limits",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1288,7 +1360,8 @@
                 "owner": "bitjson",
                 "repo": "bch-bigint",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": "Anyone may propose an improvement to Bitcoin Cash, but the responsibility is on the CHIP owner to see the idea through to fruition and build consensus.",
@@ -1316,7 +1389,8 @@
                 "owner": "CashScript",
                 "repo": "cashscript",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1331,7 +1405,8 @@
                 "owner": "bitauth",
                 "repo": "bitauth-ide",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1346,7 +1421,8 @@
                 "owner": "gcash",
                 "repo": "meep",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1361,7 +1437,8 @@
                 "owner": "CashScript",
                 "repo": "vscode-cashscript",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1376,7 +1453,8 @@
                 "owner": "TinosNitso",
                 "repo": "AutoCove-Plugin",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1391,7 +1469,8 @@
                 "owner": "bitjson",
                 "repo": "bch-wizard",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -1413,7 +1492,8 @@
                 "owner": "mr-zwets",
                 "repo": "AuthGuard",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1428,7 +1508,8 @@
                 "owner": "SayoshiNakamario",
                 "repo": "BadgersStake",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1443,7 +1524,8 @@
                 "owner": "BitCANN",
                 "repo": "bitcann-contracts",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1458,7 +1540,8 @@
                 "owner": "cashninjas",
                 "repo": "minting-contract",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1473,7 +1556,8 @@
                 "owner": "SayoshiNakamario",
                 "repo": "CashStarter",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1488,7 +1572,8 @@
                 "owner": "mainnet-pat",
                 "repo": "emerald_dao",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1503,7 +1588,8 @@
                 "owner": "mainnet-pat",
                 "repo": "hodl_ec_plugin",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1518,7 +1604,8 @@
                 "owner": "mainnet-pat",
                 "repo": "hodl_ec_plugin",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1533,7 +1620,8 @@
                 "owner": "OpenCashDAO",
                 "repo": "opencashdao-contracts",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1548,7 +1636,8 @@
                 "owner": "2qx",
                 "repo": "unspent",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": "Below is a list of projects using CashScript and/or BitcoinScript.\nCashScript is a \"transpiler\" for BitcoinScript. Developers can write CashScript and then use to transform it into the BitcoinScript language Satoshi developed.",
@@ -1570,7 +1659,8 @@
                 "owner": "CashScript",
                 "repo": "cashscript",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -1598,7 +1688,8 @@
                 "owner": "gcash",
                 "repo": "bchd",
                 "stars": 291
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1613,7 +1704,8 @@
                 "owner": "SoftwareVerde",
                 "repo": "bitcoin-verde",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1628,7 +1720,8 @@
                 "owner": "k-nuth",
                 "repo": "kth",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -1650,7 +1743,8 @@
                 "owner": "cculianu",
                 "repo": "Fulcrum",
                 "stars": 495
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1665,7 +1759,8 @@
                 "owner": "PayButton",
                 "repo": "bchc",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -1687,7 +1782,8 @@
                 "owner": "cculianu",
                 "repo": "asicseer-pool",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -1709,7 +1805,8 @@
                 "owner": "mainnet-cash",
                 "repo": "mainnet-python-generated",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -1730,8 +1827,9 @@
                 "last_commit": "2023-02-28T22:38:55Z",
                 "owner": "bitjson",
                 "repo": "qr-code",
-                "stars": 1380
-              }
+                "stars": 1381
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1746,7 +1844,8 @@
                 "owner": "bitauth",
                 "repo": "libauth",
                 "stars": 289
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1761,7 +1860,8 @@
                 "owner": "mainnet-cash",
                 "repo": "mainnet-js",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1776,7 +1876,8 @@
                 "owner": "hosseinzoda",
                 "repo": "cashlab",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1791,7 +1892,8 @@
                 "owner": "mr-zwets",
                 "repo": "chaingraph-ts",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1806,7 +1908,8 @@
                 "owner": "mainnet-pat",
                 "repo": "mem-cash",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1821,7 +1924,8 @@
                 "owner": "mainnet-pat",
                 "repo": "rpckit",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -1843,7 +1947,8 @@
                 "owner": "Permissionless-Software-Foundation",
                 "repo": "bch-js",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1858,7 +1963,8 @@
                 "owner": "rkalis",
                 "repo": "electrum-cli",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -1880,7 +1986,8 @@
                 "owner": "pybitcash",
                 "repo": "bitcash",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             },
             {
               "node_type": "item",
@@ -1895,7 +2002,8 @@
                 "owner": "jtoomim",
                 "repo": "p2pool",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -1917,7 +2025,8 @@
                 "owner": "breadwallet",
                 "repo": "breadwallet-core",
                 "stars": 282
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -1939,7 +2048,8 @@
                 "owner": "david-shattuck",
                 "repo": "BitcoinCashClient",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -1961,7 +2071,8 @@
                 "owner": "Ekliptor",
                 "repo": "cashp",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": null,
@@ -1987,7 +2098,8 @@
             "repo": "bch-bigint",
             "stars": 7
           },
-          "title": "The CHIP-2024-07 BigInt: High-Precision Arithmetic for Bitcoin Cash for the May 2025 BCH Upgrade is AWESOME!"
+          "title": "The CHIP-2024-07 BigInt: High-Precision Arithmetic for Bitcoin Cash for the May 2025 BCH Upgrade is AWESOME!",
+          "first_seen": "2026-08-28T12:40:14.338Z"
         },
         {
           "children": [],
@@ -2002,7 +2114,8 @@
             "repo": "bch-vm-limits",
             "stars": 17
           },
-          "title": "The CHIP-2021-05 VM Limits: Targeted Virtual Machine Limits for the May 2025 BCH Upgrade is AWESOME!"
+          "title": "The CHIP-2021-05 VM Limits: Targeted Virtual Machine Limits for the May 2025 BCH Upgrade is AWESOME!",
+          "first_seen": "2026-08-28T12:40:14.338Z"
         },
         {
           "children": [
@@ -2019,7 +2132,8 @@
                 "owner": "cashtokens",
                 "repo": "cashtokens",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
             }
           ],
           "description": "Due to the nature of bitcoin, some stuff is forever...",
@@ -2043,7 +2157,8 @@
                     "owner": "simpleledger",
                     "repo": "slp-specifications",
                     "stars": 59
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:40:14.338Z"
                 },
                 {
                   "node_type": "item",
@@ -2058,7 +2173,8 @@
                     "owner": "cashshuffle",
                     "repo": "spec",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:40:14.338Z"
                 }
               ],
               "description": null,
@@ -2080,7 +2196,8 @@
                     "owner": "BitcoinUnlimited",
                     "repo": "BitcoinUnlimited",
                     "stars": 502
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:40:14.338Z"
                 }
               ],
               "description": null,
@@ -2102,7 +2219,8 @@
                     "owner": "kosinusbch",
                     "repo": "slp-token-icons",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:40:14.338Z"
                 },
                 {
                   "node_type": "item",
@@ -2117,7 +2235,8 @@
                     "owner": "simpleledger",
                     "repo": "SLPDB",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:40:14.338Z"
                 },
                 {
                   "node_type": "item",
@@ -2132,7 +2251,8 @@
                     "owner": "Bitcoin-com",
                     "repo": "slp-indexer",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:40:14.338Z"
                 },
                 {
                   "node_type": "item",
@@ -2147,7 +2267,8 @@
                     "owner": "Permissionless-Software-Foundation",
                     "repo": "psf-slp-indexer",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:40:14.338Z"
                 },
                 {
                   "node_type": "item",
@@ -2162,7 +2283,8 @@
                     "owner": "blockparty-sh",
                     "repo": "cpp_slp_graph_search",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:40:14.338Z"
                 },
                 {
                   "node_type": "item",
@@ -2177,7 +2299,8 @@
                     "owner": "salemkode",
                     "repo": "slp-explorer",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:40:14.338Z"
                 },
                 {
                   "node_type": "item",
@@ -2192,7 +2315,8 @@
                     "owner": "blockparty-sh",
                     "repo": "slpstream",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:40:14.338Z"
                 }
               ],
               "description": null,
@@ -2214,7 +2338,8 @@
                     "owner": "simpleledger",
                     "repo": "Electron-Cash-SLP",
                     "stars": 69
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:40:14.338Z"
                 },
                 {
                   "node_type": "item",
@@ -2229,7 +2354,8 @@
                     "owner": "salemkode",
                     "repo": "slp-explorer",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:40:14.338Z"
                 },
                 {
                   "node_type": "item",
@@ -2244,7 +2370,8 @@
                     "owner": "Permissionless-Software-Foundation",
                     "repo": "gatsby-ipfs-web-wallet",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:40:14.338Z"
                 }
               ],
               "description": null,
@@ -2261,7 +2388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:26:31.054Z",
+    "last_updated": "2026-08-28T12:40:14.338Z",
     "original_repository_info": {
       "archived": false,
       "id": 263089151,
