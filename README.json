@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Source for the book \"Why Cryptocurrencies?\"",
+            "homepage": null,
             "id": 179041862,
             "language": "Perl",
+            "license": null,
             "last_commit": "2026-04-27T09:29:52Z",
+            "open_issues": 3,
             "owner": "treeman",
             "repo": "why_cryptocurrencies",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "pollen",
+              "racket"
+            ]
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         },
@@ -26,12 +34,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An introductory/resource website for Bitcoin Cash",
+            "homepage": "https://minisatoshi.cash",
             "id": 786562590,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-08-03T04:02:44Z",
+            "open_issues": 9,
             "owner": "minisat0shi",
             "repo": "minisatoshi.cash",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "bch",
+              "bitcoin",
+              "bitcoincash",
+              "btc",
+              "crypto",
+              "education",
+              "eth",
+              "finance",
+              "fork",
+              "ltc",
+              "nft",
+              "smart-contract",
+              "upgrade"
+            ]
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         },
@@ -42,12 +69,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bitcoin Cash FAQ",
+            "homepage": null,
             "id": 373603702,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-04-23T19:32:27Z",
+            "open_issues": 3,
             "owner": "fixthetracking",
             "repo": "Bitcoin-Cash-FAQ",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         }
@@ -66,12 +98,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com",
+                "homepage": "https://cakewallet.com",
                 "id": 231816914,
                 "language": "Dart",
-                "last_commit": "2026-08-28T10:46:03Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:05:33Z",
+                "open_issues": 324,
                 "owner": "cake-tech",
                 "repo": "cake_wallet",
-                "stars": 1873
+                "stars": 1877,
+                "topics": [
+                  "android",
+                  "bitcoin",
+                  "bitcoin-cash",
+                  "btc",
+                  "cryptocurrency",
+                  "ethereum",
+                  "haven",
+                  "ios",
+                  "linux",
+                  "litecoin",
+                  "ltc",
+                  "macos",
+                  "monero",
+                  "nano",
+                  "polygon",
+                  "solana",
+                  "wallet",
+                  "xmr"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -82,12 +138,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coin Wallet is a self-custodial crypto wallet for Bitcoin, Bitcoin Cash, Ethereum, Litecoin, XRP, Stellar, Dogecoin, Dash, Monero, Binance Smart Chain, Cardano, Ethereum Classic, Solana, Avalanche, TRON, Polygon, Arbitrum, Toncoin, and Sui.",
+                "homepage": "https://coin.space",
                 "id": 33124337,
                 "language": "Vue",
-                "last_commit": "2026-08-28T12:31:04Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T12:45:45Z",
+                "open_issues": 21,
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
-                "stars": 458
+                "stars": 458,
+                "topics": [
+                  "arbitrum",
+                  "avalanche",
+                  "bitcoin",
+                  "bitcoin-cash",
+                  "cardano",
+                  "cryptocurrency",
+                  "dash",
+                  "dogecoin",
+                  "ethereum",
+                  "ethereum-classic",
+                  "litecoin",
+                  "monero",
+                  "polygon",
+                  "polygons",
+                  "ripple",
+                  "solana",
+                  "stellar",
+                  "tron",
+                  "wallet"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -98,12 +179,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stack Wallet, a multicoin, cryptocurrency wallet",
+                "homepage": "https://stackwallet.com",
                 "id": 529170413,
                 "language": "Dart",
-                "last_commit": "2026-08-28T03:46:49Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-28T23:37:44Z",
+                "open_issues": 199,
                 "owner": "cypherstack",
                 "repo": "stack_wallet",
-                "stars": 452
+                "stars": 453,
+                "topics": [
+                  "android",
+                  "blockchain",
+                  "cryptocurrency",
+                  "hacktoberfest",
+                  "ios",
+                  "linux",
+                  "macos",
+                  "wallet",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -114,12 +210,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Electron Cash; Bitcoin Cash thin client",
+                "homepage": "https://electroncash.org",
                 "id": 98333687,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-21T17:59:11Z",
+                "open_issues": 439,
                 "owner": "Electron-Cash",
                 "repo": "Electron-Cash",
-                "stars": 390
+                "stars": 390,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -130,12 +231,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Secure and convenient Bitcoin Cash wallet app",
+                "homepage": "https://paytaca.com",
                 "id": 321209306,
                 "language": "Vue",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T08:55:12Z",
+                "open_issues": 6,
                 "owner": "paytaca",
                 "repo": "paytaca-app",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -146,12 +252,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cashonize: A cross-platform Bitcoin Cash Wallet",
+                "homepage": "https://cashonize.com",
                 "id": 745048424,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:26:06Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T20:18:03Z",
+                "open_issues": 85,
                 "owner": "cashonize",
                 "repo": "cashonize-wallet",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "bitcoin-cash",
+                  "bitcoincash",
+                  "cashtokens"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -169,12 +284,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coin Wallet is a self-custodial crypto wallet for Bitcoin, Bitcoin Cash, Ethereum, Litecoin, XRP, Stellar, Dogecoin, Dash, Monero, Binance Smart Chain, Cardano, Ethereum Classic, Solana, Avalanche, TRON, Polygon, Arbitrum, Toncoin, and Sui.",
+                "homepage": "https://coin.space",
                 "id": 33124337,
                 "language": "Vue",
-                "last_commit": "2026-08-28T12:31:04Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T12:45:45Z",
+                "open_issues": 21,
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
-                "stars": 458
+                "stars": 458,
+                "topics": [
+                  "arbitrum",
+                  "avalanche",
+                  "bitcoin",
+                  "bitcoin-cash",
+                  "cardano",
+                  "cryptocurrency",
+                  "dash",
+                  "dogecoin",
+                  "ethereum",
+                  "ethereum-classic",
+                  "litecoin",
+                  "monero",
+                  "polygon",
+                  "polygons",
+                  "ripple",
+                  "solana",
+                  "stellar",
+                  "tron",
+                  "wallet"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -185,12 +325,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Electron Cash; Bitcoin Cash thin client",
+                "homepage": "https://electroncash.org",
                 "id": 98333687,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-21T17:59:11Z",
+                "open_issues": 439,
                 "owner": "Electron-Cash",
                 "repo": "Electron-Cash",
-                "stars": 390
+                "stars": 390,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -201,12 +346,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cashonize: A cross-platform Bitcoin Cash Wallet",
+                "homepage": "https://cashonize.com",
                 "id": 745048424,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:26:06Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T20:18:03Z",
+                "open_issues": 85,
                 "owner": "cashonize",
                 "repo": "cashonize-wallet",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "bitcoin-cash",
+                  "bitcoincash",
+                  "cashtokens"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -219,12 +373,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A plugin for creating and managing the Last Will smart contract on Bitcoin Cash blockchain",
+                    "homepage": null,
                     "id": 180630118,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2020-11-08T14:19:42Z",
+                    "open_issues": 2,
                     "owner": "KarolTrzeszczkowski",
                     "repo": "Electron-Cash-Last-Will-Plugin",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
                 },
@@ -235,12 +394,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A recurring payment plugin for Electron Cash designed as a solution for noncustodial patronate",
+                    "homepage": null,
                     "id": 196752943,
                     "language": "Python",
+                    "license": "GPL-2.0",
                     "last_commit": "2020-08-03T16:57:08Z",
+                    "open_issues": 0,
                     "owner": "KarolTrzeszczkowski",
                     "repo": "Mecenas-recurring-payment-EC-plugin",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
                 },
@@ -251,12 +415,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A plugin, that sends your coins to another wallet one by one, every time to a fresh address.",
+                    "homepage": null,
                     "id": 186422880,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2020-12-05T14:47:40Z",
+                    "open_issues": 8,
                     "owner": "KarolTrzeszczkowski",
                     "repo": "Inter-Wallet-Transfer-EC-plugin",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
                 },
@@ -267,12 +436,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Prototype Nostr client ",
+                    "homepage": null,
                     "id": 603988071,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-03-22T23:37:43Z",
+                    "open_issues": 0,
                     "owner": "Electron-Cash",
                     "repo": "Nostron",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
                 },
@@ -283,12 +457,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Electron Cash plugin enabling WalletConnect functionality",
+                    "homepage": null,
                     "id": 907925916,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-11-24T15:05:12Z",
+                    "open_issues": 5,
                     "owner": "OPReturnCode",
                     "repo": "Electron-Cash-Wallet-Connect",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
                 },
@@ -299,12 +478,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 379203973,
                     "language": "Python",
+                    "license": "GPL-2.0",
                     "last_commit": "2021-06-25T18:12:05Z",
+                    "open_issues": 1,
                     "owner": "mainnet-pat",
                     "repo": "hodl_ec_plugin",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
                 },
@@ -315,12 +499,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Electron Cash redeem Script decoder plugin, with TXID, TX & .artifact input, & HTML output. It decodes raw hex into colored Script, colored hex, enables selection highlighting & decodes P2SH sigscripts. It also returns BCH from a preturn... address using PrivKey=1.",
+                    "homepage": null,
                     "id": 432728766,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-03-07T12:36:01Z",
+                    "open_issues": 2,
                     "owner": "TinosNitso",
                     "repo": "AutoCove-Plugin",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "electron-cash",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
                 },
@@ -331,12 +523,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "JS and Libauth Integration plugin for Electron Cash",
+                    "homepage": null,
                     "id": 1147471482,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-02T00:53:39Z",
+                    "open_issues": 0,
                     "owner": "fyookball",
                     "repo": "js-libauth-integration-plugin",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
                 }
@@ -359,12 +556,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coin Wallet is a self-custodial crypto wallet for Bitcoin, Bitcoin Cash, Ethereum, Litecoin, XRP, Stellar, Dogecoin, Dash, Monero, Binance Smart Chain, Cardano, Ethereum Classic, Solana, Avalanche, TRON, Polygon, Arbitrum, Toncoin, and Sui.",
+                "homepage": "https://coin.space",
                 "id": 33124337,
                 "language": "Vue",
-                "last_commit": "2026-08-28T12:31:04Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T12:45:45Z",
+                "open_issues": 21,
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
-                "stars": 458
+                "stars": 458,
+                "topics": [
+                  "arbitrum",
+                  "avalanche",
+                  "bitcoin",
+                  "bitcoin-cash",
+                  "cardano",
+                  "cryptocurrency",
+                  "dash",
+                  "dogecoin",
+                  "ethereum",
+                  "ethereum-classic",
+                  "litecoin",
+                  "monero",
+                  "polygon",
+                  "polygons",
+                  "ripple",
+                  "solana",
+                  "stellar",
+                  "tron",
+                  "wallet"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -375,12 +597,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cashonize: A cross-platform Bitcoin Cash Wallet",
+                "homepage": "https://cashonize.com",
                 "id": 745048424,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:26:06Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T20:18:03Z",
+                "open_issues": 85,
                 "owner": "cashonize",
                 "repo": "cashonize-wallet",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "bitcoin-cash",
+                  "bitcoincash",
+                  "cashtokens"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -391,12 +622,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bitcoin Cash Web Point of Sale",
+                "homepage": null,
                 "id": 447749119,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-11T16:41:37Z",
+                "open_issues": 1,
                 "owner": "SoftwareVerde",
                 "repo": "pos-cash",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -407,12 +643,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gatsby Theme for building web wallets.",
+                "homepage": null,
                 "id": 270442670,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-07-13T07:28:18Z",
+                "open_issues": 7,
                 "owner": "Permissionless-Software-Foundation",
                 "repo": "gatsby-ipfs-web-wallet",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -430,12 +671,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A customizable paper wallet for Bitcoin Cash",
+                "homepage": null,
                 "id": 141209376,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2022-02-16T05:25:03Z",
+                "open_issues": 8,
                 "owner": "Bitcoin-com",
                 "repo": "paperwallet.bitcoin.com",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -446,12 +692,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bitcoin Cash Address Generator",
+                "homepage": null,
                 "id": 101339023,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-04-13T20:13:10Z",
+                "open_issues": 3,
                 "owner": "theantnest",
                 "repo": "bccaddress",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -462,12 +713,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UI for creating BCH wallets that are ready for distribution, with the ability to claim back the balance of unclaimed wallets",
+                "homepage": "https://stamps.cash/",
                 "id": 819699560,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2026-08-22T02:34:56Z",
+                "open_issues": 3,
                 "owner": "harvmaster",
                 "repo": "CashStamps",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -478,12 +734,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bitcon Cash and CashTokens paper wallet generator",
+                "homepage": "https://paperwallet.paytaca.com",
                 "id": 930222393,
                 "language": "Vue",
+                "license": null,
                 "last_commit": "2026-08-06T14:51:15Z",
+                "open_issues": 0,
                 "owner": "paytaca",
                 "repo": "paperwallet",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -494,12 +755,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A customizable paper wallet generator for Bitcoin Cash",
+                "homepage": null,
                 "id": 658569707,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2023-07-21T03:02:14Z",
+                "open_issues": 0,
                 "owner": "KeepBitcoinFree-org",
                 "repo": "paper.keepbitcoinfree.org",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -523,12 +789,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bounty platform on Bitcoin Cash",
+                "homepage": "https://issues.cash",
                 "id": 1108472286,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-05-11T18:16:31Z",
+                "open_issues": 12,
                 "owner": "dlbnco",
                 "repo": "issues.cash",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -546,12 +817,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BCH Crowdfunding",
+                "homepage": "https://fundme.cash",
                 "id": 810557117,
                 "language": "Solidity",
+                "license": null,
                 "last_commit": "2025-05-31T04:41:11Z",
+                "open_issues": 0,
                 "owner": "SayoshiNakamario",
                 "repo": "CashStarter",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "bitcoin-cash",
+                  "cashscript",
+                  "cashtokens",
+                  "crowdfunding",
+                  "nft",
+                  "smart-contracts",
+                  "utxo"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -562,12 +846,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fork of https://gitlab.com/flipstarter/backend",
+                "homepage": null,
                 "id": 462830209,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-26T06:15:35Z",
+                "open_issues": 1,
                 "owner": "SoftwareVerde",
                 "repo": "flipstarter",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -591,12 +880,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "₿∙ϕ - Unspent Phi (an app, library, cli & db) for executing a set of anyone-can-spend contracts on Bitcoin Cash.",
+                "homepage": "https://unspent.app",
                 "id": 520198745,
                 "language": "CSS",
+                "license": "Unlicense",
                 "last_commit": "2025-02-14T19:27:20Z",
+                "open_issues": 9,
                 "owner": "2qx",
                 "repo": "unspent",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "annuity",
+                  "automata",
+                  "bch",
+                  "bitcoin-cash",
+                  "cashscript",
+                  "faucet",
+                  "introspection",
+                  "mining-software",
+                  "perpetuity"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -607,12 +911,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BitcoinCash staking contract to earn Badger tokens",
+                "homepage": "https://badgers.cash",
                 "id": 848420806,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-12-30T20:54:33Z",
+                "open_issues": 0,
                 "owner": "SayoshiNakamario",
                 "repo": "BadgersStake",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "bch",
+                  "bitcoincash",
+                  "cashscript",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -623,12 +937,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Timelocked wrapped BCH Fungible Tokens, with prebate coupon incentives. ",
+                "homepage": "https://futurebitcoin.cash",
                 "id": 764404708,
                 "language": "TypeScript",
+                "license": "MIT-0",
                 "last_commit": "2026-06-23T11:26:53Z",
+                "open_issues": 0,
                 "owner": "2qx",
                 "repo": "future-bitcoin-cash",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "bitcoincash",
+                  "cashtokens",
+                  "defi",
+                  "finance",
+                  "fungible-tokens",
+                  "futures"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -646,12 +972,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1020686245,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-08-05T18:26:20Z",
+                "open_issues": 0,
                 "owner": "mainnet-pat",
                 "repo": "SushiBar",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -675,12 +1006,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Basic Atomic Swap Proof of Concept",
+                "homepage": "https://basicswapdex.com",
                 "id": 197412629,
                 "language": "Python",
-                "last_commit": "2026-08-28T06:40:31Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T16:15:24Z",
+                "open_issues": 57,
                 "owner": "basicswap",
                 "repo": "basicswap",
-                "stars": 321
+                "stars": 321,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -698,12 +1034,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A BCH testnet faucet",
+                "homepage": null,
                 "id": 254542170,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-05T10:54:06Z",
+                "open_issues": 14,
                 "owner": "christroutner",
                 "repo": "testnet-faucet2",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -725,12 +1066,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bitcoin Mempool Statistics",
+            "homepage": null,
             "id": 89791012,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-20T18:50:12Z",
+            "open_issues": 12,
             "owner": "jhoenicke",
             "repo": "mempool",
-            "stars": 344
+            "stars": 344,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         },
@@ -741,12 +1087,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The frontend for TxStreet.com",
+            "homepage": "https://txstreet.com",
             "id": 673538736,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-31T20:20:16Z",
+            "open_issues": 4,
             "owner": "txstreet",
             "repo": "txstreet",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         }
@@ -763,12 +1114,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Database-free, self-hosted Bitcoin Cash explorer, via RPC. Built with Node.js, express, bootstrap-v4.",
+            "homepage": null,
             "id": 234119900,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-17T09:01:09Z",
+            "open_issues": 17,
             "owner": "sickpig",
             "repo": "bch-rpc-explorer",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         },
@@ -779,12 +1135,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A multi-node blockchain indexer and GraphQL API",
+            "homepage": "https://chaingraph.cash/",
             "id": 411924807,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-16T01:53:02Z",
+            "open_issues": 67,
             "owner": "bitauth",
             "repo": "chaingraph",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "bitcoin",
+              "bitcoin-cash",
+              "blockchain",
+              "cryptocurrency",
+              "graphql",
+              "helm-chart",
+              "indexer",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         },
@@ -795,12 +1165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://explorer.salemkode.com/",
             "id": 615317251,
             "language": "Vue",
+            "license": null,
             "last_commit": "2026-03-24T13:56:20Z",
+            "open_issues": 11,
             "owner": "salemkode",
             "repo": "explorer",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         },
@@ -811,12 +1186,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://cashflow.dev",
             "id": 953571733,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-14T13:44:11Z",
+            "open_issues": 2,
             "owner": "rnbrady",
             "repo": "cashflow",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "bch",
+              "bitcoin",
+              "bitcoin-cash",
+              "explorer",
+              "react-flow",
+              "xyflow"
+            ]
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         },
@@ -827,12 +1214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Explore Bitcoin Cash blocks, transactions, and CashTokens with BCMR metadata.",
+            "homepage": "https://bchexplorer.info",
             "id": 1140715309,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-07-26T10:59:05Z",
+            "open_issues": 0,
             "owner": "paytaca",
             "repo": "bitcoincash-explorer",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         },
@@ -843,12 +1235,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":blue_book: Trezor address/account balance backend ",
+            "homepage": "https://trezor.io",
             "id": 1036671510,
             "language": null,
+            "license": "AGPL-3.0",
             "last_commit": "2025-10-10T12:37:58Z",
+            "open_issues": 1,
             "owner": "mainnet-pat",
             "repo": "blockbook",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         }
@@ -865,12 +1262,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of the ChainTip bounties available",
+            "homepage": "http://www.chaintip.org/github#tip-issue",
             "id": 121700624,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-12T21:49:45Z",
+            "open_issues": 27,
             "owner": "chaintip",
             "repo": "bounties",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "bch",
+              "bounties",
+              "earn"
+            ]
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         },
@@ -881,12 +1287,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenTokenRegistry is an open source, volunteer-maintained registry of tokens issued on Bitcoin Cash.",
+            "homepage": "http://otr.cash/",
             "id": 639712845,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2024-09-04T21:00:44Z",
+            "open_issues": 7,
             "owner": "OpenTokenRegistry",
             "repo": "otr.cash",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "bitcoin",
+              "bitcoin-cash",
+              "bitcoin-cash-metadata-registry",
+              "cashtokens",
+              "cryptocurrency",
+              "token-list",
+              "wallet"
+            ]
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         },
@@ -897,12 +1316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BitcoinCash tags that maintain fiat exchange rates",
+            "homepage": null,
             "id": 426479649,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-12-05T00:47:46Z",
+            "open_issues": 0,
             "owner": "developers-cash",
             "repo": "cashtags-server",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         },
@@ -913,12 +1337,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://ipfs-bch-pat-mn.vercel.app",
             "id": 614943918,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-02-16T08:24:54Z",
+            "open_issues": 0,
             "owner": "mainnet-pat",
             "repo": "ipfs-bch.pat.mn",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         },
@@ -929,12 +1358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TokenStork is a market cap website and metadata registry for BCH CashTokens.",
+            "homepage": "https://tokenstork.com",
             "id": 905779452,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-01-02T06:23:48Z",
+            "open_issues": 0,
             "owner": "JesusPieceHoly",
             "repo": "tokenstork",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         }
@@ -951,12 +1385,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an online IDE for bitcoin and bitcoin cash contracts",
+            "homepage": "https://ide.bitauth.com",
             "id": 170440619,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-09-05T17:52:34Z",
+            "open_issues": 21,
             "owner": "bitauth",
             "repo": "bitauth-ide",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "bch",
+              "bitauth",
+              "bitcoin",
+              "bitcoin-cash",
+              "bitcoin-script",
+              "bsv",
+              "btc",
+              "cashassembly",
+              "cryptocurrency",
+              "ide",
+              "smart-contracts",
+              "wallet",
+              "xec"
+            ]
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         },
@@ -967,12 +1420,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CashTokens Airdrop Tool",
+            "homepage": null,
             "id": 726106955,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-03-15T15:35:51Z",
+            "open_issues": 0,
             "owner": "mr-zwets",
             "repo": "airdrop-tool",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "cashtokens"
+            ]
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         }
@@ -989,12 +1449,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome things related to Bitcoin Cash. Contribute yourself:",
+            "homepage": "https://github.com/dsmurrell/awesome-bitcoin-cash/blob/master/CONTRIBUTING.md",
             "id": 102290854,
             "language": null,
+            "license": null,
             "last_commit": "2023-03-25T17:41:37Z",
+            "open_issues": 4,
             "owner": "dsmurrell",
             "repo": "awesome-bitcoin-cash",
-            "stars": 162
+            "stars": 162,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bitcoin",
+              "bitcoin-cash",
+              "btc"
+            ]
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         },
@@ -1005,12 +1476,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An introductory/resource website for Bitcoin Cash",
+            "homepage": "https://minisatoshi.cash",
             "id": 786562590,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-08-03T04:02:44Z",
+            "open_issues": 9,
             "owner": "minisat0shi",
             "repo": "minisatoshi.cash",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "bch",
+              "bitcoin",
+              "bitcoincash",
+              "btc",
+              "crypto",
+              "education",
+              "eth",
+              "finance",
+              "fork",
+              "ltc",
+              "nft",
+              "smart-contract",
+              "upgrade"
+            ]
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         }
@@ -1027,12 +1517,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basic Atomic Swap Proof of Concept",
+            "homepage": "https://basicswapdex.com",
             "id": 197412629,
             "language": "Python",
-            "last_commit": "2026-08-28T06:40:31Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T16:15:24Z",
+            "open_issues": 57,
             "owner": "basicswap",
             "repo": "basicswap",
-            "stars": 321
+            "stars": 321,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         },
@@ -1043,12 +1538,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://axeswap.vercel.app",
             "id": 784078145,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-12-09T13:16:49Z",
+            "open_issues": 3,
             "owner": "mainnet-pat",
             "repo": "axeswap",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
         }
@@ -1067,12 +1567,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Accept payments in Bitcoin Cash in WooCommerce with CryptoWoo.",
+                "homepage": null,
                 "id": 100059312,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2021-10-03T17:08:56Z",
+                "open_issues": 1,
                 "owner": "WeProgramIT",
                 "repo": "cryptowoo-bitcoin-cash-addon",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "accept-payments",
+                  "addon",
+                  "bch",
+                  "bitcoin-cash",
+                  "bitcoincash",
+                  "cryptowoo",
+                  "woocommerce",
+                  "wordpress"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1083,12 +1597,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A WordPress WooCommerce plugin for integrating Bitcoin Cash payments using the Paytaca Payment Hub API",
+                "homepage": "https://payment-hub.paytaca.com",
                 "id": 1012336276,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2025-09-18T09:47:02Z",
+                "open_issues": 0,
                 "owner": "paytaca",
                 "repo": "woocommerce-plugin",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -1106,12 +1625,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Secure and convenient Bitcoin Cash wallet app",
+                "homepage": "https://paytaca.com",
                 "id": 321209306,
                 "language": "Vue",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T08:55:12Z",
+                "open_issues": 6,
                 "owner": "paytaca",
                 "repo": "paytaca-app",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1122,12 +1646,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bitcoin Cash Web Point of Sale",
+                "homepage": null,
                 "id": 447749119,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-11T16:41:37Z",
+                "open_issues": 1,
                 "owner": "SoftwareVerde",
                 "repo": "pos-cash",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -1145,12 +1674,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Javascript library for CashPay Servers",
+                "homepage": null,
                 "id": 265220366,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-07T18:20:29Z",
+                "open_issues": 19,
                 "owner": "developers-cash",
                 "repo": "cash-pay-server-js",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -1174,12 +1708,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Specification of the Bitcoin Cash protocols and consensus",
+                "homepage": null,
                 "id": 232664469,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-02T13:55:53Z",
+                "open_issues": 12,
                 "owner": "SoftwareVerde",
                 "repo": "bitcoin-cash-specification",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1190,12 +1729,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An introductory/resource website for Bitcoin Cash",
+                "homepage": "https://minisatoshi.cash",
                 "id": 786562590,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-08-03T04:02:44Z",
+                "open_issues": 9,
                 "owner": "minisat0shi",
                 "repo": "minisatoshi.cash",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "bch",
+                  "bitcoin",
+                  "bitcoincash",
+                  "btc",
+                  "crypto",
+                  "education",
+                  "eth",
+                  "finance",
+                  "fork",
+                  "ltc",
+                  "nft",
+                  "smart-contract",
+                  "upgrade"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -1213,12 +1771,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bitcoin Improvement Proposals",
+                "homepage": null,
                 "id": 14531737,
                 "language": "Wikitext",
+                "license": null,
                 "last_commit": "2026-08-20T17:14:27Z",
+                "open_issues": 55,
                 "owner": "bitcoin",
                 "repo": "bips",
-                "stars": 10928
+                "stars": 10932,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1229,12 +1792,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Specs and documentation for CashShuffle",
+                "homepage": null,
                 "id": 178914316,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2020-09-07T12:51:50Z",
+                "open_issues": 11,
                 "owner": "cashshuffle",
                 "repo": "spec",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1245,12 +1813,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A community-maintained website about the CashTokens technology, including technical specifications, documentation, guides, and other resources.",
+                "homepage": "https://cashtokens.org/",
                 "id": 626033080,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-10-14T18:10:22Z",
+                "open_issues": 4,
                 "owner": "cashtokens",
                 "repo": "cashtokens.org",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "bitcoin",
+                  "bitcoin-cash",
+                  "bitcoin-cash-chip",
+                  "cashtokens",
+                  "cryptocurrency",
+                  "tokenization"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1261,12 +1841,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Electrum Cash protocol reference",
+                "homepage": null,
                 "id": 249356361,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-08T00:10:47Z",
+                "open_issues": 1,
                 "owner": "cculianu",
                 "repo": "electrum-cash-protocol",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1277,12 +1862,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CHIP: Bitcoin Cash Metadata Registries",
+                "homepage": "https://cashtokens.org/docs/bcmr/chip/",
                 "id": 559373182,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-01-31T22:45:36Z",
+                "open_issues": 10,
                 "owner": "bitjson",
                 "repo": "chip-bcmr",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "bitcoin-cash",
+                  "bitcoin-cash-chip"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1293,12 +1886,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 660741235,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-07-14T05:22:21Z",
+                "open_issues": 0,
                 "owner": "mainnet-pat",
                 "repo": "wc2-bch-bcr",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -1322,12 +1920,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A proposal to enable two new primitives on Bitcoin Cash: fungible tokens and non-fungible tokens.",
+                "homepage": "https://cashtokens.org",
                 "id": 459820453,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-20T02:45:32Z",
+                "open_issues": 0,
                 "owner": "cashtokens",
                 "repo": "cashtokens",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "bitcoin",
+                  "bitcoin-cash",
+                  "bitcoin-cash-chip",
+                  "cashtokens",
+                  "cryptocurrency",
+                  "tokenization"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1338,12 +1948,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Re-targets virtual machine (VM) limits to enable more advanced Bitcoin Cash contracts, reduce transaction sizes, and reduce full node compute requirements.",
+                "homepage": null,
                 "id": 366265285,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-05-08T17:09:18Z",
+                "open_issues": 0,
                 "owner": "bitjson",
                 "repo": "bch-vm-limits",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "bitcoin-cash",
+                  "bitcoin-cash-chip"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1354,12 +1972,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Augments VM Limits CHIP by removing one additional Bitcoin Cash VM limit: the number length limit (A.K.A. nMaxNumSize).",
+                "homepage": null,
                 "id": 833425418,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-05-08T17:10:09Z",
+                "open_issues": 0,
                 "owner": "bitjson",
                 "repo": "bch-bigint",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "bigint",
+                  "bitcoin",
+                  "bitcoin-cash",
+                  "bitcoin-cash-chip",
+                  "bitcoin-script"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -1383,12 +2012,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚖️ Easily write and interact with Bitcoin Cash smart contracts",
+                "homepage": "https://cashscript.org",
                 "id": 184497209,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T10:05:19Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T20:36:39Z",
+                "open_issues": 67,
                 "owner": "CashScript",
                 "repo": "cashscript",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "bitcoin-cash",
+                  "bitcoin-script",
+                  "compiler",
+                  "programming-language",
+                  "sdk-js"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1399,12 +2039,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an online IDE for bitcoin and bitcoin cash contracts",
+                "homepage": "https://ide.bitauth.com",
                 "id": 170440619,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-09-05T17:52:34Z",
+                "open_issues": 21,
                 "owner": "bitauth",
                 "repo": "bitauth-ide",
-                "stars": 96
+                "stars": 96,
+                "topics": [
+                  "bch",
+                  "bitauth",
+                  "bitcoin",
+                  "bitcoin-cash",
+                  "bitcoin-script",
+                  "bsv",
+                  "btc",
+                  "cashassembly",
+                  "cryptocurrency",
+                  "ide",
+                  "smart-contracts",
+                  "wallet",
+                  "xec"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1415,12 +2074,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Meep is a command line Bitcoin Cash script debugger",
+                "homepage": null,
                 "id": 189356134,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-04-24T00:59:47Z",
+                "open_issues": 5,
                 "owner": "gcash",
                 "repo": "meep",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1431,12 +2095,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VSCode Extension for CashScript",
+                "homepage": "https://marketplace.visualstudio.com/items?itemName=CashScript.cashscript-vscode",
                 "id": 341340285,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T08:53:25Z",
+                "open_issues": 5,
                 "owner": "CashScript",
                 "repo": "vscode-cashscript",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "bitcoin-cash",
+                  "cashscript",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1447,12 +2120,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Electron Cash redeem Script decoder plugin, with TXID, TX & .artifact input, & HTML output. It decodes raw hex into colored Script, colored hex, enables selection highlighting & decodes P2SH sigscripts. It also returns BCH from a preturn... address using PrivKey=1.",
+                "homepage": null,
                 "id": 432728766,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-03-07T12:36:01Z",
+                "open_issues": 2,
                 "owner": "TinosNitso",
                 "repo": "AutoCove-Plugin",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "electron-cash",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1463,12 +2144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bitcoin Cash VM stack operation optimizer",
+                "homepage": "https://bitjson.github.io/bch-wizard/",
                 "id": 931131937,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2025-02-12T02:10:46Z",
+                "open_issues": 0,
                 "owner": "bitjson",
                 "repo": "bch-wizard",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -1486,12 +2172,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AuthGuard - A Standard for managing AuthChains",
+                "homepage": null,
                 "id": 676479275,
                 "language": "Solidity",
+                "license": null,
                 "last_commit": "2023-11-23T10:35:30Z",
+                "open_issues": 0,
                 "owner": "mr-zwets",
                 "repo": "AuthGuard",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "bitcoin-cash",
+                  "bitcoincash",
+                  "cashtokens"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1502,12 +2197,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BitcoinCash staking contract to earn Badger tokens",
+                "homepage": "https://badgers.cash",
                 "id": 848420806,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-12-30T20:54:33Z",
+                "open_issues": 0,
                 "owner": "SayoshiNakamario",
                 "repo": "BadgersStake",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "bch",
+                  "bitcoincash",
+                  "cashscript",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1518,12 +2223,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "@bitcann/contracts package, contracts and their documentation for BitCANN",
+                "homepage": null,
                 "id": 925964633,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-18T06:35:57Z",
+                "open_issues": 0,
                 "owner": "BitCANN",
                 "repo": "bitcann-contracts",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1534,12 +2244,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-threaded minting smart contract for Bitcoin Cash.",
+                "homepage": null,
                 "id": 679412547,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-10-08T13:26:24Z",
+                "open_issues": 0,
                 "owner": "cashninjas",
                 "repo": "minting-contract",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "bitcoin-cash",
+                  "bitcoincash",
+                  "cashscript",
+                  "cashtokens",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1550,12 +2271,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BCH Crowdfunding",
+                "homepage": "https://fundme.cash",
                 "id": 810557117,
                 "language": "Solidity",
+                "license": null,
                 "last_commit": "2025-05-31T04:41:11Z",
+                "open_issues": 0,
                 "owner": "SayoshiNakamario",
                 "repo": "CashStarter",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "bitcoin-cash",
+                  "cashscript",
+                  "cashtokens",
+                  "crowdfunding",
+                  "nft",
+                  "smart-contracts",
+                  "utxo"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1566,12 +2300,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://emerald-dao.vercel.app",
                 "id": 639763537,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-06-15T12:55:58Z",
+                "open_issues": 1,
                 "owner": "mainnet-pat",
                 "repo": "emerald_dao",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1582,12 +2321,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 379203973,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2021-06-25T18:12:05Z",
+                "open_issues": 1,
                 "owner": "mainnet-pat",
                 "repo": "hodl_ec_plugin",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1598,12 +2342,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 379203973,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2021-06-25T18:12:05Z",
+                "open_issues": 1,
                 "owner": "mainnet-pat",
                 "repo": "hodl_ec_plugin",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1614,12 +2363,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "@opencashdao/contracts package, contracts and their documentation for OpenCashDAO",
+                "homepage": null,
                 "id": 938364685,
                 "language": "Solidity",
+                "license": "MIT",
                 "last_commit": "2025-04-27T07:21:29Z",
+                "open_issues": 0,
                 "owner": "OpenCashDAO",
                 "repo": "opencashdao-contracts",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1630,12 +2384,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "₿∙ϕ - Unspent Phi (an app, library, cli & db) for executing a set of anyone-can-spend contracts on Bitcoin Cash.",
+                "homepage": "https://unspent.app",
                 "id": 520198745,
                 "language": "CSS",
+                "license": "Unlicense",
                 "last_commit": "2025-02-14T19:27:20Z",
+                "open_issues": 9,
                 "owner": "2qx",
                 "repo": "unspent",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "annuity",
+                  "automata",
+                  "bch",
+                  "bitcoin-cash",
+                  "cashscript",
+                  "faucet",
+                  "introspection",
+                  "mining-software",
+                  "perpetuity"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -1653,12 +2422,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚖️ Easily write and interact with Bitcoin Cash smart contracts",
+                "homepage": "https://cashscript.org",
                 "id": 184497209,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T10:05:19Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T20:36:39Z",
+                "open_issues": 67,
                 "owner": "CashScript",
                 "repo": "cashscript",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "bitcoin-cash",
+                  "bitcoin-script",
+                  "compiler",
+                  "programming-language",
+                  "sdk-js"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -1682,12 +2462,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An alternative full node bitcoin cash implementation written in Go (golang) ",
+                "homepage": null,
                 "id": 148558591,
                 "language": "Go",
+                "license": "ISC",
                 "last_commit": "2026-08-26T23:57:43Z",
+                "open_issues": 19,
                 "owner": "gcash",
                 "repo": "bchd",
-                "stars": 291
+                "stars": 291,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1698,12 +2483,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bitcoin Verde is a Java full-node implementation of the Bitcoin Cash protocol. Fully indexed, Bitcoin Verde is a unique, from the ground-up, implementation.  Bitcoin Verde provides a block explorer, development library, and network implementation diversification.",
+                "homepage": "https://bitcoinverde.org",
                 "id": 124832169,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2025-06-05T14:20:55Z",
+                "open_issues": 3,
                 "owner": "SoftwareVerde",
                 "repo": "bitcoin-verde",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1714,12 +2504,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High performance Bitcoin development platform",
+                "homepage": "https://kth.cash",
                 "id": 1007599554,
                 "language": "C++",
-                "last_commit": "2026-08-26T17:31:14Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:57:15Z",
+                "open_issues": 138,
                 "owner": "k-nuth",
                 "repo": "kth",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "bcash",
+                  "bch",
+                  "bitcoin",
+                  "bitcoincash",
+                  "cash",
+                  "cpp",
+                  "cpp20",
+                  "cpp23",
+                  "crypto",
+                  "cryptocurrency",
+                  "high-performance",
+                  "knuth"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -1737,12 +2545,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast & nimble SPV Server for BCH, BTC, and LTC",
+                "homepage": null,
                 "id": 231261772,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-20T22:41:54Z",
+                "open_issues": 64,
                 "owner": "cculianu",
                 "repo": "Fulcrum",
-                "stars": 495
+                "stars": 495,
+                "topics": [
+                  "bch",
+                  "bitcoin",
+                  "bitcoin-cash",
+                  "bitcoincash",
+                  "btc",
+                  "cpp17",
+                  "electroncash",
+                  "electronx",
+                  "electrum",
+                  "electrum-ltc",
+                  "electrumx",
+                  "fast",
+                  "litecoin",
+                  "ltc",
+                  "server",
+                  "spv"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1753,12 +2583,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A high performance full node & indexer for Bitcoin Cash.",
+                "homepage": null,
                 "id": 847040874,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-05-15T15:05:31Z",
+                "open_issues": 1,
                 "owner": "PayButton",
                 "repo": "bchc",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -1776,12 +2611,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ASICseer Pool: Fast, C-based, multithreaded mining pool software for Bitcoin Cash",
+                "homepage": "https://github.com/cculianu/asicseer-pool",
                 "id": 245358186,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-20T04:43:01Z",
+                "open_issues": 5,
                 "owner": "cculianu",
                 "repo": "asicseer-pool",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "asicseer-pool",
+                  "bch-pool",
+                  "bitcoin",
+                  "bitcoin-cash",
+                  "bitcoin-cash-pool",
+                  "ckpool",
+                  "mining-pool",
+                  "sha256"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -1799,12 +2648,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 308403534,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-09T20:28:37Z",
+                "open_issues": 0,
                 "owner": "mainnet-cash",
                 "repo": "mainnet-python-generated",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -1822,12 +2676,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A no-framework, no-dependencies, customizable, animate-able, SVG-based <qr-code> HTML element.",
+                "homepage": "https://qr.bitjson.com/",
                 "id": 607068506,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-02-28T22:38:55Z",
+                "open_issues": 14,
                 "owner": "bitjson",
                 "repo": "qr-code",
-                "stars": 1381
+                "stars": 1381,
+                "topics": [
+                  "animated",
+                  "bch",
+                  "bitcoin",
+                  "bitcoin-cash",
+                  "cryptocurrency",
+                  "ethereum",
+                  "qr-code",
+                  "qr-code-component",
+                  "qr-code-generator",
+                  "qr-generator",
+                  "stencil",
+                  "svg",
+                  "svg-animations",
+                  "web-animations",
+                  "web-component"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1838,12 +2713,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ultra-lightweight, zero-dependency TypeScript library for Bitcoin Cash, Bitcoin, and Bitauth applications.",
+                "homepage": "https://libauth.org",
                 "id": 126120346,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-09-19T14:40:33Z",
+                "open_issues": 30,
                 "owner": "bitauth",
                 "repo": "libauth",
-                "stars": 289
+                "stars": 289,
+                "topics": [
+                  "authentication",
+                  "bch",
+                  "bitcoin",
+                  "bitcoin-cash",
+                  "bsv",
+                  "btc",
+                  "ecash",
+                  "javascript",
+                  "ripemd160",
+                  "secp256k1",
+                  "sha256",
+                  "sha512",
+                  "typescript",
+                  "webassembly",
+                  "xec"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1854,12 +2750,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript/JavaScript interface for interacting with Bitcoin Cash network",
+                "homepage": null,
                 "id": 286254524,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-19T03:09:55Z",
+                "open_issues": 16,
                 "owner": "mainnet-cash",
                 "repo": "mainnet-js",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1870,12 +2771,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Everything starts from here.",
+                "homepage": null,
                 "id": 802903748,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-12-08T22:35:29Z",
+                "open_issues": 0,
                 "owner": "hosseinzoda",
                 "repo": "cashlab",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1886,12 +2792,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a simple TypeScript library for working with Chaingraph in a fully type-safe way",
+                "homepage": null,
                 "id": 896131761,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-03-27T07:18:27Z",
+                "open_issues": 3,
                 "owner": "mr-zwets",
                 "repo": "chaingraph-ts",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "bitcoin-cash",
+                  "bitcoincash",
+                  "cashtokens",
+                  "chaingraph"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1902,12 +2818,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1190309730,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-14T11:51:21Z",
+                "open_issues": 0,
                 "owner": "mainnet-pat",
                 "repo": "mem-cash",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1918,12 +2839,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://rpckit.vercel.app",
                 "id": 1148807526,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-13T17:50:10Z",
+                "open_issues": 0,
                 "owner": "mainnet-pat",
                 "repo": "rpckit",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -1941,12 +2867,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JS library for working with the Bitcoin Cash blockchain.",
+                "homepage": "https://FullStack.cash",
                 "id": 283099614,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-29T06:43:03Z",
+                "open_issues": 15,
                 "owner": "Permissionless-Software-Foundation",
                 "repo": "bch-js",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1957,12 +2888,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quickly make requests to an electrum server with a simple CLI",
+                "homepage": null,
                 "id": 316478051,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-12-09T13:58:41Z",
+                "open_issues": 0,
                 "owner": "rkalis",
                 "repo": "electrum-cli",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "bitcoin",
+                  "bitcoin-cash",
+                  "cli",
+                  "electrum"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -1980,12 +2921,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BitCash: Python Bitcoin Cash Library (fork of ofek's Bit)",
+                "homepage": "https://pybitcash.github.io/bitcash/",
                 "id": 113098589,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-17T13:09:29Z",
+                "open_issues": 8,
                 "owner": "pybitcash",
                 "repo": "bitcash",
-                "stars": 99
+                "stars": 99,
+                "topics": [
+                  "bitcoin",
+                  "bitcoincash",
+                  "blockchain",
+                  "cryptocurrency",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             },
@@ -1996,12 +2948,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Peer-to-peer Bitcoin mining pool",
+                "homepage": "https://github.com/jtoomim/p2pool/",
                 "id": 48618816,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-07-21T04:13:12Z",
+                "open_issues": 17,
                 "owner": "jtoomim",
                 "repo": "p2pool",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -2019,12 +2976,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SPV bitcoin C library",
+                "homepage": null,
                 "id": 37500549,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-04-02T14:29:17Z",
+                "open_issues": 18,
                 "owner": "breadwallet",
                 "repo": "breadwallet-core",
-                "stars": 282
+                "stars": 282,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -2042,12 +3004,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple C# Library for Bitcoin Cash",
+                "homepage": null,
                 "id": 567895357,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-01-21T01:47:30Z",
+                "open_issues": 0,
                 "owner": "david-shattuck",
                 "repo": "BitcoinCashClient",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -2065,12 +3032,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PHP library for Bitcoin Cash (BCH) and SLP token payments",
+                "homepage": null,
                 "id": 193613287,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-01-07T11:57:32Z",
+                "open_issues": 7,
                 "owner": "Ekliptor",
                 "repo": "cashp",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "bitcoin",
+                  "bitcoin-cash",
+                  "cryptocurrency",
+                  "ecommerce",
+                  "laravel",
+                  "php",
+                  "php-library",
+                  "php7",
+                  "wordpress"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -2091,12 +3073,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Augments VM Limits CHIP by removing one additional Bitcoin Cash VM limit: the number length limit (A.K.A. nMaxNumSize).",
+            "homepage": null,
             "id": 833425418,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-08T17:10:09Z",
+            "open_issues": 0,
             "owner": "bitjson",
             "repo": "bch-bigint",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "bigint",
+              "bitcoin",
+              "bitcoin-cash",
+              "bitcoin-cash-chip",
+              "bitcoin-script"
+            ]
           },
           "title": "The CHIP-2024-07 BigInt: High-Precision Arithmetic for Bitcoin Cash for the May 2025 BCH Upgrade is AWESOME!",
           "first_seen": "2026-08-28T12:40:14.338Z"
@@ -2107,12 +3100,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Re-targets virtual machine (VM) limits to enable more advanced Bitcoin Cash contracts, reduce transaction sizes, and reduce full node compute requirements.",
+            "homepage": null,
             "id": 366265285,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-08T17:09:18Z",
+            "open_issues": 0,
             "owner": "bitjson",
             "repo": "bch-vm-limits",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "bitcoin-cash",
+              "bitcoin-cash-chip"
+            ]
           },
           "title": "The CHIP-2021-05 VM Limits: Targeted Virtual Machine Limits for the May 2025 BCH Upgrade is AWESOME!",
           "first_seen": "2026-08-28T12:40:14.338Z"
@@ -2126,12 +3127,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A proposal to enable two new primitives on Bitcoin Cash: fungible tokens and non-fungible tokens.",
+                "homepage": "https://cashtokens.org",
                 "id": 459820453,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-20T02:45:32Z",
+                "open_issues": 0,
                 "owner": "cashtokens",
                 "repo": "cashtokens",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "bitcoin",
+                  "bitcoin-cash",
+                  "bitcoin-cash-chip",
+                  "cashtokens",
+                  "cryptocurrency",
+                  "tokenization"
+                ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
             }
@@ -2151,12 +3164,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple Ledger Protocol (SLP) Specifications",
+                    "homepage": null,
                     "id": 142682851,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2021-04-13T18:54:35Z",
+                    "open_issues": 8,
                     "owner": "simpleledger",
                     "repo": "slp-specifications",
-                    "stars": 59
+                    "stars": 59,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
                 },
@@ -2167,12 +3185,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Specs and documentation for CashShuffle",
+                    "homepage": null,
                     "id": 178914316,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2020-09-07T12:51:50Z",
+                    "open_issues": 11,
                     "owner": "cashshuffle",
                     "repo": "spec",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
                 }
@@ -2190,12 +3213,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bitcoin Unlimited continues on gitlab see https://gitlab.com/bitcoinunlimited/BCHUnlimited",
+                    "homepage": "http://www.bitcoinunlimited.info/download.html",
                     "id": 18613259,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2024-11-01T18:40:26Z",
+                    "open_issues": 69,
                     "owner": "BitcoinUnlimited",
                     "repo": "BitcoinUnlimited",
-                    "stars": 502
+                    "stars": 502,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
                 }
@@ -2213,12 +3241,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hosted SLP token icons",
+                    "homepage": "https://tokens.bch.sx",
                     "id": 185169586,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-08-18T23:00:50Z",
+                    "open_issues": 9,
                     "owner": "kosinusbch",
                     "repo": "slp-token-icons",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": [
+                      "bitcoin-cash",
+                      "simple-ledger-protocol",
+                      "slp",
+                      "tokens"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
                 },
@@ -2229,12 +3267,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SLP Token Graph Indexer",
+                    "homepage": "https://simpleledger.cash/project/slpdb/",
                     "id": 169637762,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-11-16T15:41:27Z",
+                    "open_issues": 15,
                     "owner": "simpleledger",
                     "repo": "SLPDB",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": [
+                      "bitcoin-cash",
+                      "simple-ledger-protocol",
+                      "tokens"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
                 },
@@ -2245,12 +3292,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bitcoin.com slp-indexer",
+                    "homepage": null,
                     "id": 235024935,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2023-07-05T20:44:00Z",
+                    "open_issues": 6,
                     "owner": "Bitcoin-com",
                     "repo": "slp-indexer",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
                 },
@@ -2261,12 +3313,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Indexer for validating SLP transactions. Uses LevelDB.",
+                    "homepage": null,
                     "id": 424370079,
                     "language": "JavaScript",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-02-12T21:15:43Z",
+                    "open_issues": 12,
                     "owner": "Permissionless-Software-Foundation",
                     "repo": "psf-slp-indexer",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
                 },
@@ -2277,12 +3334,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "gs++ | SLP Graph Search Server",
+                    "homepage": null,
                     "id": 208372937,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2022-12-11T06:30:47Z",
+                    "open_issues": 23,
                     "owner": "blockparty-sh",
                     "repo": "cpp_slp_graph_search",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
                 },
@@ -2293,12 +3355,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Slp explorer for bitcoin cash",
+                    "homepage": "https://simpleledger.info/",
                     "id": 480807286,
                     "language": "Vue",
+                    "license": "GPL-2.0",
                     "last_commit": "2023-01-26T14:44:21Z",
+                    "open_issues": 4,
                     "owner": "salemkode",
                     "repo": "slp-explorer",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "ts",
+                      "vue",
+                      "vuejs"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
                 },
@@ -2309,12 +3380,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 224284199,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2022-12-30T17:24:24Z",
+                    "open_issues": 9,
                     "owner": "blockparty-sh",
                     "repo": "slpstream",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
                 }
@@ -2332,12 +3408,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Electron Cash for SLP Tokens",
+                    "homepage": "https://simpleledger.cash/project/electron-cash-slp-edition/",
                     "id": 141155107,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-05-23T02:15:22Z",
+                    "open_issues": 60,
                     "owner": "simpleledger",
                     "repo": "Electron-Cash-SLP",
-                    "stars": 69
+                    "stars": 69,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
                 },
@@ -2348,12 +3429,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Slp explorer for bitcoin cash",
+                    "homepage": "https://simpleledger.info/",
                     "id": 480807286,
                     "language": "Vue",
+                    "license": "GPL-2.0",
                     "last_commit": "2023-01-26T14:44:21Z",
+                    "open_issues": 4,
                     "owner": "salemkode",
                     "repo": "slp-explorer",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "ts",
+                      "vue",
+                      "vuejs"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
                 },
@@ -2364,12 +3454,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Gatsby Theme for building web wallets.",
+                    "homepage": null,
                     "id": 270442670,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-07-13T07:28:18Z",
+                    "open_issues": 7,
                     "owner": "Permissionless-Software-Foundation",
                     "repo": "gatsby-ipfs-web-wallet",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
                 }
@@ -2388,15 +3483,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:40:14.338Z",
+    "last_updated": "2026-08-29T05:06:25.354Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Bitcoin Cash projects & resources ",
+      "homepage": "https://awesomebitcoin.cash",
       "id": 263089151,
       "language": "JavaScript",
+      "license": "MIT",
       "last_commit": "2026-08-19T13:45:51Z",
+      "open_issues": 21,
       "owner": "2qx",
       "repo": "awesome-bitcoin-cash",
-      "stars": 50
+      "stars": 50,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bch",
+        "bitcoin-cash",
+        "bitcoincash",
+        "blockchain",
+        "cryptocurrencies",
+        "electron-cash",
+        "memo-protocol",
+        "payments",
+        "utxo"
+      ]
     },
     "original_repository_sha": "8c94ef48b8ea52e6e753596c2ed3143360eabe1b",
     "enhanced_repository": "enhansome/enhansome-bitcoin-cash",
