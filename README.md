@@ -12,7 +12,7 @@ Bitcoin Cash (BCH) is a project to scale bitcoin on-chain as an electronic peer-
 </div>
 <br>
 
-[![Check Links](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml/badge.svg)](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml) ⭐ 50 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-19 <img src="https://awesome.re/badge.svg" alt="awesome" style="height:20px;border:10;">
+[![Check Links](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml/badge.svg)](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml) ⭐ 50 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-11 <img src="https://awesome.re/badge.svg" alt="awesome" style="height:20px;border:10;">
 
 # Contents
 
@@ -72,8 +72,8 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 ### Mobile
 
-* [Cake Wallet](https://cakewallet.com/) [\[code\]](https://github.com/cake-tech/cake_wallet) ⭐ 1,902 | 🐛 348 | 🌐 Dart | 📅 2026-09-10 [\[apk\]](https://github.com/cake-tech/cake_wallet/releases) ⭐ 1,902 | 🐛 348 | 🌐 Dart | 📅 2026-09-10 - An open source wallet for iOS and Android supporting XMR and other currencies.
-* [Stack Wallet](https://stackwallet.com/) [\[code\]](https://github.com/cypherstack/stack_wallet) ⭐ 458 | 🐛 199 | 🌐 Dart | 📅 2026-09-10 - Multicoin wallet with UTXO (coin) control.
+* [Cake Wallet](https://cakewallet.com/) [\[code\]](https://github.com/cake-tech/cake_wallet) ⭐ 1,903 | 🐛 348 | 🌐 Dart | 📅 2026-09-11 [\[apk\]](https://github.com/cake-tech/cake_wallet/releases) ⭐ 1,903 | 🐛 348 | 🌐 Dart | 📅 2026-09-11 - An open source wallet for iOS and Android supporting XMR and other currencies.
+* [Stack Wallet](https://stackwallet.com/) [\[code\]](https://github.com/cypherstack/stack_wallet) ⭐ 459 | 🐛 199 | 🌐 Dart | 📅 2026-09-11 - Multicoin wallet with UTXO (coin) control.
 * [Coin Wallet](https://coin.space/) [\[code\]](https://github.com/CoinSpace/CoinSpace) ⭐ 458 | 🐛 21 | 🌐 Vue | 📅 2026-09-08 - A self-custodial multicurrency wallet for multiple platforms (iOS and Android).
 * 🔵 [Electron-Cash](https://electroncash.org) - Android [\[code\]](https://github.com/Electron-Cash/Electron-Cash/tree/master/android) ⭐ 389 | 🐛 440 | 🌐 Python | 📅 2026-08-30 and iOS [\[code\]](https://github.com/Electron-Cash/Electron-Cash/tree/master/ios) ⭐ 389 | 🐛 440 | 🌐 Python | 📅 2026-08-30 versions available with more limited functionality.
 * 🔵 [Paytaca](https://www.paytaca.com/) [\[apk\]](https://github.com/paytaca/paytaca-app/releases) ⭐ 57 | 🐛 7 | 🌐 Vue | 📅 2026-09-11 [\[code\]](https://github.com/paytaca/paytaca-app) ⭐ 57 | 🐛 7 | 🌐 Vue | 📅 2026-09-11 - A mobile wallet for Android, iOS and ChromeOS
@@ -111,7 +111,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 ### Paper/Offline Generator
 
-* [Bitcoin.com Paper Wallet](https://paperwallet.bitcoin.com/) [\[code\]](https://github.com/Bitcoin-com/paperwallet.bitcoin.com) ⭐ 100 | 🐛 8 | 🌐 HTML | 📅 2022-02-16 - A fork of the cashaddress.org paper wallet
+* [Bitcoin.com Paper Wallet](https://paperwallet.bitcoin.com/) [\[code\]](https://github.com/Bitcoin-com/paperwallet.bitcoin.com) ⭐ 99 | 🐛 8 | 🌐 HTML | 📅 2022-02-16 - A fork of the cashaddress.org paper wallet
 * [Cash Address Generator](https://cashaddress.org/) [\[code\]](https://github.com/theantnest/bccaddress) ⭐ 91 | 🐛 3 | 🌐 HTML | 📅 2026-04-13 - reputable javascript address generator suitable for offline use.
 * [Stamps](https://stamps.cash/#/) [\[code\]](https://github.com/harvmaster/CashStamps) ⭐ 6 | 🐛 2 | 🌐 Vue | 📅 2026-09-10 - Create reclaimable BCH wallets
 * [Paytaca Paper Wallet](https://paperwallet.paytaca.com/#/)  [\[code\]](https://github.com/paytaca/paperwallet) ⭐ 2 | 🐛 0 | 🌐 Vue | 📅 2026-08-06 - Generate stylish and secure Bitcoin Cash (BCH) paper wallets.
@@ -206,7 +206,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 ### More decentralized
 
-* [BasicSwapdex](https://basicswapdex.com) [\[code\]](https://github.com/basicswap/basicswap) ⭐ 323 | 🐛 55 | 🌐 Python | 📅 2026-09-08 - Atomic swap DEX with BitcoinCash support
+* [BasicSwapdex](https://basicswapdex.com) [\[code\]](https://github.com/basicswap/basicswap) ⭐ 324 | 🐛 49 | 🌐 Python | 📅 2026-09-11 - Atomic swap DEX with BitcoinCash support
 * [Thorchain Swap](https://app.thorswap.finance/) - Swap native assets directly with any non-custodial wallet across nine blockchains.
 
 ### Faucets
@@ -286,7 +286,7 @@ These are other projects dedicated to listing projects in the Bitcoin Cash ecosy
 
 ## 💚🤝🧡 Bitcoin Cash × Monero 🧡🤝💚
 
-* [BasicSwapdex](https://basicswapdex.com) [\[code\]](https://github.com/basicswap/basicswap) ⭐ 323 | 🐛 55 | 🌐 Python | 📅 2026-09-08 - Atomic swap DEX with BitcoinCash support
+* [BasicSwapdex](https://basicswapdex.com) [\[code\]](https://github.com/basicswap/basicswap) ⭐ 324 | 🐛 49 | 🌐 Python | 📅 2026-09-11 - Atomic swap DEX with BitcoinCash support
 * [AxeSwap](https://axeswap.net) [\[code\]](https://github.com/mainnet-pat/axeswap) ⭐ 8 | 🐛 3 | 🌐 TypeScript | 📅 2025-12-09 [\[docs\]](https://axeswap.net/docs) - Trustless Monero and Bitcoin Cash atomic cross-chain exchange.
 * [monujo.cash](https://monujo.vercel.app/) - Fork of Cashonize webwallet for Monero.
 
@@ -314,6 +314,7 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 ### Projects dedicated to listing or enabling eCommerce.
 
 * [Bitgree](https://www.bitgree.com) - service to privately purchase goods on Amazon.com and others at a discount.
+* [Mobazha](https://mobazha.org/) [\[app\]](https://app.mobazha.org/) [\[demo\]](https://youtu.be/Q8bQWmm3Byw) - a hosted decentralized commerce platform for independent sellers with native BCH direct and moderated 2-of-3 escrow payments. OpenBazaar successor.
 
 ### Some Charities and Foundations
 
@@ -369,7 +370,7 @@ Just some good charities for the world at large.
 
 [Bitcoin Cash Standards](https://bitcoincashstandards.org) is a site dedicated to collecting, some of which are listed below:
 
-* [Payment Requests Specification (BIP-0070)](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) ⭐ 10,931 | 🐛 57 | 🌐 Wikitext | 📅 2026-09-10 - For dealing with invoice style payments at specific amounts.
+* [Payment Requests Specification (BIP-0070)](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) ⭐ 10,933 | 🐛 56 | 🌐 Wikitext | 📅 2026-09-11 - For dealing with invoice style payments at specific amounts.
 * [CashFusion](https://cashfusion.org) [\[spec\]](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md) ⭐ 25 | 🐛 11 | 📅 2020-09-07 - a privacy protocol for privately and trustlessly joining coin amounts.
 * 🔵 [CashTokens](https://cashtokens.org/) [\[code\]](https://github.com/cashtokens/cashtokens.org) ⭐ 20 | 🐛 4 | 🌐 JavaScript | 📅 2025-10-14 - Specification for CashTokens.
 * [Electrum Cash Protocol (Fulcrum)](https://electrum-cash-protocol.readthedocs.io/en/latest/) [\[code\]](https://github.com/cculianu/electrum-cash-protocol) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-05-08 - ElectrumX Protocol for [fulcrum](https://fulcrumserver.org) (UTXO indexer/SPV service).
@@ -510,7 +511,7 @@ Below is a list of projects using CashScript and/or BitcoinScript.
 ### Python
 
 * 🔵 [bitcash](https://pybitcash.github.io/bitcash/) [\[code\]](https://github.com/pybitcash/bitcash) ⭐ 99 | 🐛 8 | 🌐 Python | 📅 2026-05-17.
-* [jtoomim/p2pool](https://github.com/jtoomim/p2pool) ⭐ 43 | 🐛 17 | 🌐 Python | 📅 2022-07-21 - jtoomim fork of bitcoin pool mining software.
+* [jtoomim/p2pool](https://github.com/jtoomim/p2pool) ⭐ 44 | 🐛 17 | 🌐 Python | 📅 2022-07-21 - jtoomim fork of bitcoin pool mining software.
 
 ### Rust
 
@@ -628,4 +629,4 @@ The Permissionless Software Foundation is actively maintaining an SLP wallet and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
