@@ -103,11 +103,11 @@
                 "id": 231816914,
                 "language": "Dart",
                 "license": "MIT",
-                "last_commit": "2026-09-13T01:45:32Z",
-                "open_issues": 344,
+                "last_commit": "2026-09-14T05:19:53Z",
+                "open_issues": 345,
                 "owner": "cake-tech",
                 "repo": "cake_wallet",
-                "stars": 1906,
+                "stars": 1907,
                 "topics": [
                   "android",
                   "bitcoin",
@@ -178,7 +178,7 @@
                 "open_issues": 21,
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
-                "stars": 458,
+                "stars": 459,
                 "topics": [
                   "arbitrum",
                   "avalanche",
@@ -257,7 +257,7 @@
                 "id": 745048424,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T09:57:40Z",
+                "last_commit": "2026-09-13T12:10:59Z",
                 "open_issues": 88,
                 "owner": "cashonize",
                 "repo": "cashonize-wallet",
@@ -293,7 +293,7 @@
                 "open_issues": 21,
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
-                "stars": 458,
+                "stars": 459,
                 "topics": [
                   "arbitrum",
                   "avalanche",
@@ -351,7 +351,7 @@
                 "id": 745048424,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T09:57:40Z",
+                "last_commit": "2026-09-13T12:10:59Z",
                 "open_issues": 88,
                 "owner": "cashonize",
                 "repo": "cashonize-wallet",
@@ -565,7 +565,7 @@
                 "open_issues": 21,
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
-                "stars": 458,
+                "stars": 459,
                 "topics": [
                   "arbitrum",
                   "avalanche",
@@ -602,7 +602,7 @@
                 "id": 745048424,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T09:57:40Z",
+                "last_commit": "2026-09-13T12:10:59Z",
                 "open_issues": 88,
                 "owner": "cashonize",
                 "repo": "cashonize-wallet",
@@ -1015,7 +1015,7 @@
                 "open_issues": 50,
                 "owner": "basicswap",
                 "repo": "basicswap",
-                "stars": 325,
+                "stars": 326,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
@@ -1526,7 +1526,7 @@
             "open_issues": 50,
             "owner": "basicswap",
             "repo": "basicswap",
-            "stars": 325,
+            "stars": 326,
             "topics": []
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
@@ -1777,7 +1777,7 @@
                 "language": "Wikitext",
                 "license": null,
                 "last_commit": "2026-09-11T20:40:30Z",
-                "open_issues": 59,
+                "open_issues": 63,
                 "owner": "bitcoin",
                 "repo": "bips",
                 "stars": 10937,
@@ -2719,7 +2719,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2025-09-19T14:40:33Z",
-                "open_issues": 30,
+                "open_issues": 31,
                 "owner": "bitauth",
                 "repo": "libauth",
                 "stars": 289,
@@ -3483,7 +3483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T05:58:05.421Z",
+    "last_updated": "2026-09-14T06:04:41.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bitcoin Cash projects & resources ",
