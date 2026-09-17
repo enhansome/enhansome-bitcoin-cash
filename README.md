@@ -12,7 +12,7 @@ Bitcoin Cash (BCH) is a project to scale bitcoin on-chain as an electronic peer-
 </div>
 <br>
 
-[![Check Links](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml/badge.svg)](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml) ⭐ 50 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-11 <img src="https://awesome.re/badge.svg" alt="awesome" style="height:20px;border:10;">
+[![Check Links](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml/badge.svg)](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml) ⭐ 50 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-16 <img src="https://awesome.re/badge.svg" alt="awesome" style="height:20px;border:10;">
 
 # Contents
 
@@ -43,7 +43,7 @@ Bitcoin Cash (BCH) is a project to scale bitcoin on-chain as an electronic peer-
 ## Getting Started
 
 * [Why Cryptocurrencies?](https://whycryptocurrencies.com/toc.html) [\[code\]](https://github.com/treeman/why_cryptocurrencies) ⚠️ Archived - An explanation on why cryptocurrencies were created, what they do differently and why they matter.
-* [WhatIsBitcoin.Cash](https://whatisbitcoin.cash) [\[src\]](https://github.com/minisat0shi/minisatoshi.cash) ⭐ 8 | 🐛 9 | 🌐 HTML | 📅 2026-09-09 - Discover Bitcoin Cash (BCH): a fast, low-cost, decentralized cryptocurrency designed for everyone. Join the freedom revolution!
+* [WhatIsBitcoin.Cash](https://whatisbitcoin.cash) [\[src\]](https://github.com/minisat0shi/minisatoshi.cash) ⭐ 8 | 🐛 10 | 🌐 HTML | 📅 2026-09-09 - Discover Bitcoin Cash (BCH): a fast, low-cost, decentralized cryptocurrency designed for everyone. Join the freedom revolution!
 * [BCHFAQ.com](https://bchfaq.com/) [\[code\]](https://github.com/fixthetracking/Bitcoin-Cash-FAQ) ⭐ 6 | 🐛 3 | 📅 2025-04-23 - Learn the fundamentals of Bitcoin Cash by getting simple answers to your basic questions.
 * [BCH Info](https://bch.info/) - Multilingual site for general information about bitcoin cash.
 * [Why Bitcoin Cash?](https://whybitcoincash.com/) [\[archive\]](https://web.archive.org/web/20230228125654/https://whybitcoincash.com/) - The revolution will not be censored.
@@ -72,11 +72,11 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 ### Mobile
 
-* [Cake Wallet](https://cakewallet.com/) [\[code\]](https://github.com/cake-tech/cake_wallet) ⭐ 1,916 | 🐛 346 | 🌐 Dart | 📅 2026-09-15 [\[apk\]](https://github.com/cake-tech/cake_wallet/releases) ⭐ 1,916 | 🐛 346 | 🌐 Dart | 📅 2026-09-15 - An open source wallet for iOS and Android supporting XMR and other currencies.
-* [Stack Wallet](https://stackwallet.com/) [\[code\]](https://github.com/cypherstack/stack_wallet) ⭐ 461 | 🐛 199 | 🌐 Dart | 📅 2026-09-16 - Multicoin wallet with UTXO (coin) control.
+* [Cake Wallet](https://cakewallet.com/) [\[code\]](https://github.com/cake-tech/cake_wallet) ⭐ 1,916 | 🐛 349 | 🌐 Dart | 📅 2026-09-17 [\[apk\]](https://github.com/cake-tech/cake_wallet/releases) ⭐ 1,916 | 🐛 349 | 🌐 Dart | 📅 2026-09-17 - An open source wallet for iOS and Android supporting XMR and other currencies.
+* [Stack Wallet](https://stackwallet.com/) [\[code\]](https://github.com/cypherstack/stack_wallet) ⭐ 461 | 🐛 202 | 🌐 Dart | 📅 2026-09-16 - Multicoin wallet with UTXO (coin) control.
 * [Coin Wallet](https://coin.space/) [\[code\]](https://github.com/CoinSpace/CoinSpace) ⭐ 459 | 🐛 21 | 🌐 Vue | 📅 2026-09-08 - A self-custodial multicurrency wallet for multiple platforms (iOS and Android).
 * 🔵 [Electron-Cash](https://electroncash.org) - Android [\[code\]](https://github.com/Electron-Cash/Electron-Cash/tree/master/android) ⭐ 389 | 🐛 440 | 🌐 Python | 📅 2026-08-30 and iOS [\[code\]](https://github.com/Electron-Cash/Electron-Cash/tree/master/ios) ⭐ 389 | 🐛 440 | 🌐 Python | 📅 2026-08-30 versions available with more limited functionality.
-* 🔵 [Paytaca](https://www.paytaca.com/) [\[apk\]](https://github.com/paytaca/paytaca-app/releases) ⭐ 57 | 🐛 7 | 🌐 Vue | 📅 2026-09-15 [\[code\]](https://github.com/paytaca/paytaca-app) ⭐ 57 | 🐛 7 | 🌐 Vue | 📅 2026-09-15 - A mobile wallet for Android, iOS and ChromeOS
+* 🔵 [Paytaca](https://www.paytaca.com/) [\[apk\]](https://github.com/paytaca/paytaca-app/releases) ⭐ 57 | 🐛 8 | 🌐 Vue | 📅 2026-09-17 [\[code\]](https://github.com/paytaca/paytaca-app) ⭐ 57 | 🐛 8 | 🌐 Vue | 📅 2026-09-17 - A mobile wallet for Android, iOS and ChromeOS
 * 🔵 [Cashonize](https://github.com/cashonize/cashonize-wallet/tags) ⭐ 21 | 🐛 88 | 🌐 TypeScript | 📅 2026-09-15 [\[code\]](https://github.com/cashonize/cashonize-wallet) ⭐ 21 | 🐛 88 | 🌐 TypeScript | 📅 2026-09-15 - Offering an Android wallet for CashTokens.
 * 🔵 [Selene Wallet](https://selene.cash/) [\[code\]](https://git.xulu.tech/selene.cash/selene-wallet/) - Easy, no-hassle, instant payments in the palm of your hand.
 * 🔵 [zapit](https://zapit.io/#/)\* - A native, non-custodial Bitcoin Cash wallet for iOS and Android. \*Not open source
@@ -185,6 +185,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 * [bugs.cash](https://bugs.cash/) - An online multiplayer browser game.
 * [bch.games](https://bch.games/) - dice and numbers game.
 * [Satoshi dice](https://www.satoshidice.com/) - a provably fair dice game.
+* [Gumshoe](https://www.gumshoemystery.com/) - a weekly mystery with BCH reward.
 
 ### ⚠️ Oracle-driven Fiat Speculation ⚠️
 
@@ -201,7 +202,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 ### Centralized
 
-* [CoinEx](https://www.coinex.com/) - A BCH friendly exchange with automatic coin-splitting
 * [BitcoinVN](https://bitcoinvn.io) - Non-custodial instant exchange supporting BCH since day one, with 0-conf deposits for small amounts.
 
 ### More decentralized
@@ -218,7 +218,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 * [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/) [\[code\]](https://github.com/jhoenicke/mempool) ⭐ 344 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-14 - Colorful mempool graphs.
 * [Tx Street](https://txcity.io/v/bch-eth) [\[code\]](https://github.com/txstreet/txstreet) ⭐ 47 | 🐛 4 | 🌐 JavaScript | 📅 2024-03-31 - a live blockchain transaction and mempool visualizer.
-* [fork.lol](https://fork.lol) - Site to monitor network health in relation to BTC.
 * [Electrum Server Status for BCH](https://1209k.com/bitcoin-eye/ele.php?chain=bch) [\[or tBCH\]](https://1209k.com/bitcoin-eye/ele.php?chain=tbch) - A 1209k hosted list of electrum servers
 * [Oracles.Cash](https://oracles.cash/) [\[Best Practices\]](https://gitlab.com/GeneralProtocols/priceoracle/library#best-practices-for-price-oracle-consumers) [\[spec\]](https://gitlab.com/GeneralProtocols/priceoracle/specification) - Price oracles for Bitcoin Cash
 * [Bitcoin Energy Statistics](https://energy.bchexplorer.cash) - A comparison of energy usage for BCH and BTC.
@@ -276,7 +275,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 These are other projects dedicated to listing projects in the Bitcoin Cash ecosystem:
 
 * [Canonical awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash) ⭐ 162 | 🐛 4 | 📅 2023-03-25 - the original.
-* [minisatoshi.cash](https://minisatoshi.cash/ecosystem) [\[code\]](https://github.com/minisat0shi/minisatoshi.cash) ⭐ 8 | 🐛 9 | 🌐 HTML | 📅 2026-09-09 -  Extensive BCH project list with category filters and searching functionality.
+* [minisatoshi.cash](https://minisatoshi.cash/ecosystem) [\[code\]](https://github.com/minisat0shi/minisatoshi.cash) ⭐ 8 | 🐛 10 | 🌐 HTML | 📅 2026-09-09 -  Extensive BCH project list with category filters and searching functionality.
 * [HelpMe Cash](https://helpme.cash/) - A collection of links to things related to the cryptocurrency Bitcoin Cash
 * [BCH Webring](https://bchwebring.com/) - Federation of Bitcoin Cash websites
 * [Bitcoin Cash Projects](https://www.bitcoin.com/bitcoin-cash-projects/) - maintained by bitcoin.com.
@@ -333,7 +332,7 @@ Just some good charities for the world at large.
 
 ### Point of Sale Clients
 
-* 🔵 [Paytaca](https://www.paytaca.com/) [\[apk\]](https://github.com/paytaca/paytaca-app/releases) ⭐ 57 | 🐛 7 | 🌐 Vue | 📅 2026-09-15 [\[code\]](https://github.com/paytaca/paytaca-app) ⭐ 57 | 🐛 7 | 🌐 Vue | 📅 2026-09-15 - A mobile wallet with integrated POS.
+* 🔵 [Paytaca](https://www.paytaca.com/) [\[apk\]](https://github.com/paytaca/paytaca-app/releases) ⭐ 57 | 🐛 8 | 🌐 Vue | 📅 2026-09-17 [\[code\]](https://github.com/paytaca/paytaca-app) ⭐ 57 | 🐛 8 | 🌐 Vue | 📅 2026-09-17 - A mobile wallet with integrated POS.
 * [pos.cash](https://pos.cash) [\[code\]](https://github.com/softwareverde/pos-cash) ⭐ 9 | 🐛 1 | 🌐 JavaScript | 📅 2024-04-11 - a non-custodial web-based point of sale BCH client.
 
 ### Non-Custodial Payment Processors
@@ -360,7 +359,7 @@ Just some good charities for the world at large.
 ### Base Protocol
 
 * [Bitcoin Cash Protocol Documentation](https://documentation.cash/) [\[code\]](https://github.com/SoftwareVerde/bitcoin-cash-specification) ⭐ 9 | 🐛 12 | 🌐 Python | 📅 2024-04-02 - maintained by Software Verde.
-* [Upgrade History](https://minisatoshi.cash/upgrade-history) [\[src\]](https://github.com/minisat0shi/minisatoshi.cash) ⭐ 8 | 🐛 9 | 🌐 HTML | 📅 2026-09-09 - Full history of Bitcoin (Cash) upgrades since 2009 including future proposals
+* [Upgrade History](https://minisatoshi.cash/upgrade-history) [\[src\]](https://github.com/minisat0shi/minisatoshi.cash) ⭐ 8 | 🐛 10 | 🌐 HTML | 📅 2026-09-09 - Full history of Bitcoin (Cash) upgrades since 2009 including future proposals
 * ⭐[BCH Specification](https://flowee.org/docs/spec/) - Specification hosted by flowee.org.⭐
 * [reference.cash](https://reference.cash) - protocol documentation
 * [Upgrade specs](https://upgradespecs.bitcoincashnode.org/) - Bitcoin Cash upgrade specifications as implemented by BCHN.
@@ -370,7 +369,7 @@ Just some good charities for the world at large.
 
 [Bitcoin Cash Standards](https://bitcoincashstandards.org) is a site dedicated to collecting, some of which are listed below:
 
-* [Payment Requests Specification (BIP-0070)](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) ⭐ 10,938 | 🐛 59 | 🌐 Wikitext | 📅 2026-09-14 - For dealing with invoice style payments at specific amounts.
+* [Payment Requests Specification (BIP-0070)](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) ⭐ 10,941 | 🐛 58 | 🌐 Wikitext | 📅 2026-09-16 - For dealing with invoice style payments at specific amounts.
 * [CashFusion](https://cashfusion.org) [\[spec\]](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md) ⭐ 25 | 🐛 11 | 📅 2020-09-07 - a privacy protocol for privately and trustlessly joining coin amounts.
 * 🔵 [CashTokens](https://cashtokens.org/) [\[code\]](https://github.com/cashtokens/cashtokens.org) ⭐ 20 | 🐛 4 | 🌐 JavaScript | 📅 2025-10-14 - Specification for CashTokens.
 * [Electrum Cash Protocol (Fulcrum)](https://electrum-cash-protocol.readthedocs.io/en/latest/) [\[code\]](https://github.com/cculianu/electrum-cash-protocol) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-05-08 - ElectrumX Protocol for [fulcrum](https://fulcrumserver.org) (UTXO indexer/SPV service).
@@ -467,7 +466,7 @@ Below is a list of projects using CashScript and/or BitcoinScript.
 
 ### Full Nodes
 
-* 🔵 [bchd](https://bchd.cash/) [\[code\]](https://github.com/gcash/bchd) ⭐ 291 | 🐛 23 | 🌐 Go | 📅 2026-09-10 [\[docs\]](https://github.com/gcash/bchd/tree/master/docs) ⭐ 291 | 🐛 23 | 🌐 Go | 📅 2026-09-10 - alternative implementation written in Go (golang)
+* 🔵 [bchd](https://bchd.cash/) [\[code\]](https://github.com/gcash/bchd) ⭐ 291 | 🐛 20 | 🌐 Go | 📅 2026-09-17 [\[docs\]](https://github.com/gcash/bchd/tree/master/docs) ⭐ 291 | 🐛 20 | 🌐 Go | 📅 2026-09-17 - alternative implementation written in Go (golang)
 * 🔵 [Bitcoin Verde](https://bitcoinverde.org/) [\[code\]](https://github.com/softwareverde/bitcoin-verde) ⭐ 53 | 🐛 3 | 🌐 Java | 📅 2025-06-05 [\[docs\]](https://explorer.bitcoinverde.org/documentation/) - java implementation with the goal of being interoperable with mining nodes.
 * 🔵 [Knuth](https://kth.cash/) [\[code\]](https://github.com/k-nuth/kth) ⭐ 7 | 🐛 142 | 🌐 C++ | 📅 2026-08-31 - a high performance implementation of the Bitcoin protocol focused on applications needing extra capacity and resilience.
 * 🔵 [BCHN](https://bitcoincashnode.org/) [\[code\]](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node) [\[docs\]](https://docs.bitcoincashnode.org/) - a descendant of the Bitcoin Core and Bitcoin ABC software projects with independent development team. C/C++.
@@ -475,7 +474,7 @@ Below is a list of projects using CashScript and/or BitcoinScript.
 
 ### Indexers Simple Payment Verification (SPV)
 
-* 🔵 [Fulcrum](https://fulcrumserver.org) [\[repos\]](https://github.com/cculianu/Fulcrum/) ⭐ 500 | 🐛 63 | 🌐 C++ | 📅 2026-09-05 - A fast & nimble SPV Server for Bitcoin Cash.
+* 🔵 [Fulcrum](https://fulcrumserver.org) [\[repos\]](https://github.com/cculianu/Fulcrum/) ⭐ 501 | 🐛 63 | 🌐 C++ | 📅 2026-09-05 - A fast & nimble SPV Server for Bitcoin Cash.
 * 🔵 [bchc](https://github.com/PayButton/bchc) ⭐ 9 | 🐛 1 | 🌐 C++ | 📅 2026-05-15  - A high performance full node & indexer for Bitcoin Cash.
 * 🔵 [Rostrum](https://gitlab.com/bitcoinunlimited/rostrum) - Rostrum is an efficient implementation of Electrum Server written in Rust.
 
@@ -495,7 +494,7 @@ Below is a list of projects using CashScript and/or BitcoinScript.
 ### Typescript
 
 * [`<qr-code>`](https://github.com/bitjson/qr-code) ⭐ 1,383 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-28 [\[demo\]](https://qr.bitjson.com/) – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` HTML element.
-* 🔵 [Libauth](https://libauth.org/) [\[code\]](https://github.com/bitauth/libauth) ⭐ 289 | 🐛 31 | 🌐 TypeScript | 📅 2025-09-19 - an ultra-lightweight, zero-dependency library for Bitcoin Cash and Bitauth applications. (Formerly `bitcoin-ts`.)
+* 🔵 [Libauth](https://libauth.org/) [\[code\]](https://github.com/bitauth/libauth) ⭐ 289 | 🐛 32 | 🌐 TypeScript | 📅 2025-09-19 - an ultra-lightweight, zero-dependency library for Bitcoin Cash and Bitauth applications. (Formerly `bitcoin-ts`.)
 * 🔵 [mainnet-js](https://mainnet.cash/) [\[code\]](https://github.com/mainnet-cash/mainnet-js) ⭐ 34 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-19 - Typescript library, also available over rest.
 * 🔵 [cashlab](https://github.com/hosseinzoda/cashlab) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-08 - High-level packages to do defi in the BCH network
 * [Chaingraph-ts \[code\]](https://github.com/mr-zwets/chaingraph-ts) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-15 - library for working with Chaingraph in a fully type-safe way
@@ -629,4 +628,4 @@ The Permissionless Software Foundation is actively maintaining an SLP wallet and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
