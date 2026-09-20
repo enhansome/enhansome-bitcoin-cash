@@ -103,11 +103,11 @@
                 "id": 231816914,
                 "language": "Dart",
                 "license": "MIT",
-                "last_commit": "2026-09-18T21:29:45Z",
-                "open_issues": 348,
+                "last_commit": "2026-09-20T04:41:51Z",
+                "open_issues": 347,
                 "owner": "cake-tech",
                 "repo": "cake_wallet",
-                "stars": 1921,
+                "stars": 1925,
                 "topics": [
                   "android",
                   "bitcoin",
@@ -143,8 +143,8 @@
                 "id": 529170413,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T15:06:59Z",
-                "open_issues": 202,
+                "last_commit": "2026-09-19T21:55:15Z",
+                "open_issues": 200,
                 "owner": "cypherstack",
                 "repo": "stack_wallet",
                 "stars": 461,
@@ -1780,7 +1780,7 @@
                 "open_issues": 61,
                 "owner": "bitcoin",
                 "repo": "bips",
-                "stars": 10943,
+                "stars": 10945,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
@@ -3483,7 +3483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T05:43:12.967Z",
+    "last_updated": "2026-09-20T06:02:47.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bitcoin Cash projects & resources ",
