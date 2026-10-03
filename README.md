@@ -72,7 +72,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 ### Mobile
 
-* [Cake Wallet](https://cakewallet.com/) [\[code\]](https://github.com/cake-tech/cake_wallet) ⭐ 1,943 | 🐛 359 | 🌐 Dart | 📅 2026-10-03 [\[apk\]](https://github.com/cake-tech/cake_wallet/releases) ⭐ 1,943 | 🐛 359 | 🌐 Dart | 📅 2026-10-03 - An open source wallet for iOS and Android supporting XMR and other currencies.
+* [Cake Wallet](https://cakewallet.com/) [\[code\]](https://github.com/cake-tech/cake_wallet) ⭐ 1,944 | 🐛 359 | 🌐 Dart | 📅 2026-10-03 [\[apk\]](https://github.com/cake-tech/cake_wallet/releases) ⭐ 1,944 | 🐛 359 | 🌐 Dart | 📅 2026-10-03 - An open source wallet for iOS and Android supporting XMR and other currencies.
 * [Stack Wallet](https://stackwallet.com/) [\[code\]](https://github.com/cypherstack/stack_wallet) ⭐ 461 | 🐛 202 | 🌐 Dart | 📅 2026-10-03 - Multicoin wallet with UTXO (coin) control.
 * [Coin Wallet](https://coin.space/) [\[code\]](https://github.com/CoinSpace/CoinSpace) ⭐ 461 | 🐛 21 | 🌐 Vue | 📅 2026-09-29 - A self-custodial multicurrency wallet for multiple platforms (iOS and Android).
 * 🔵 [Electron-Cash](https://electroncash.org) - Android [\[code\]](https://github.com/Electron-Cash/Electron-Cash/tree/master/android) ⭐ 389 | 🐛 446 | 🌐 Python | 📅 2026-10-02 and iOS [\[code\]](https://github.com/Electron-Cash/Electron-Cash/tree/master/ios) ⭐ 389 | 🐛 446 | 🌐 Python | 📅 2026-10-02 versions available with more limited functionality.
