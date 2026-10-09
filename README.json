@@ -103,11 +103,11 @@
                 "id": 231816914,
                 "language": "Dart",
                 "license": "MIT",
-                "last_commit": "2026-10-08T03:31:22Z",
-                "open_issues": 366,
+                "last_commit": "2026-10-09T07:09:27Z",
+                "open_issues": 367,
                 "owner": "cake-tech",
                 "repo": "cake_wallet",
-                "stars": 1957,
+                "stars": 1959,
                 "topics": [
                   "android",
                   "bitcoin",
@@ -133,37 +133,6 @@
             },
             {
               "node_type": "item",
-              "title": "Stack Wallet",
-              "description": "[code] - Multicoin wallet with UTXO (coin) control.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Stack Wallet, a multicoin, cryptocurrency wallet",
-                "homepage": "https://stackwallet.com",
-                "id": 529170413,
-                "language": "Dart",
-                "license": "GPL-3.0",
-                "last_commit": "2026-10-07T18:54:22Z",
-                "open_issues": 199,
-                "owner": "cypherstack",
-                "repo": "stack_wallet",
-                "stars": 462,
-                "topics": [
-                  "android",
-                  "blockchain",
-                  "cryptocurrency",
-                  "hacktoberfest",
-                  "ios",
-                  "linux",
-                  "macos",
-                  "wallet",
-                  "windows"
-                ]
-              },
-              "first_seen": "2026-08-28T12:40:14.338Z"
-            },
-            {
-              "node_type": "item",
               "title": "Coin Wallet",
               "description": "[code] - A self-custodial multicurrency wallet for multiple platforms (iOS and Android).",
               "children": [],
@@ -178,7 +147,7 @@
                 "open_issues": 21,
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
-                "stars": 462,
+                "stars": 463,
                 "topics": [
                   "arbitrum",
                   "avalanche",
@@ -199,6 +168,37 @@
                   "stellar",
                   "tron",
                   "wallet"
+                ]
+              },
+              "first_seen": "2026-08-28T12:40:14.338Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Stack Wallet",
+              "description": "[code] - Multicoin wallet with UTXO (coin) control.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Stack Wallet, a multicoin, cryptocurrency wallet",
+                "homepage": "https://stackwallet.com",
+                "id": 529170413,
+                "language": "Dart",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-08T13:57:48Z",
+                "open_issues": 197,
+                "owner": "cypherstack",
+                "repo": "stack_wallet",
+                "stars": 462,
+                "topics": [
+                  "android",
+                  "blockchain",
+                  "cryptocurrency",
+                  "hacktoberfest",
+                  "ios",
+                  "linux",
+                  "macos",
+                  "wallet",
+                  "windows"
                 ]
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
@@ -236,7 +236,7 @@
                 "id": 321209306,
                 "language": "Vue",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T05:27:08Z",
+                "last_commit": "2026-10-09T01:10:33Z",
                 "open_issues": 7,
                 "owner": "paytaca",
                 "repo": "paytaca-app",
@@ -293,7 +293,7 @@
                 "open_issues": 21,
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
-                "stars": 462,
+                "stars": 463,
                 "topics": [
                   "arbitrum",
                   "avalanche",
@@ -565,7 +565,7 @@
                 "open_issues": 21,
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
-                "stars": 462,
+                "stars": 463,
                 "topics": [
                   "arbitrum",
                   "avalanche",
@@ -1012,10 +1012,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-06T07:36:17Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "basicswap",
                 "repo": "basicswap",
-                "stars": 323,
+                "stars": 324,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
@@ -1523,10 +1523,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-06T07:36:17Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "basicswap",
             "repo": "basicswap",
-            "stars": 323,
+            "stars": 324,
             "topics": []
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
@@ -1630,7 +1630,7 @@
                 "id": 321209306,
                 "language": "Vue",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T05:27:08Z",
+                "last_commit": "2026-10-09T01:10:33Z",
                 "open_issues": 7,
                 "owner": "paytaca",
                 "repo": "paytaca-app",
@@ -1780,7 +1780,7 @@
                 "open_issues": 67,
                 "owner": "bitcoin",
                 "repo": "bips",
-                "stars": 10953,
+                "stars": 10956,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
@@ -3483,7 +3483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T07:15:09.921Z",
+    "last_updated": "2026-10-09T07:18:42.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bitcoin Cash projects & resources ",
