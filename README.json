@@ -103,11 +103,11 @@
                 "id": 231816914,
                 "language": "Dart",
                 "license": "MIT",
-                "last_commit": "2026-10-10T21:08:59Z",
-                "open_issues": 368,
+                "last_commit": "2026-10-11T22:09:33Z",
+                "open_issues": 369,
                 "owner": "cake-tech",
                 "repo": "cake_wallet",
-                "stars": 1963,
+                "stars": 1968,
                 "topics": [
                   "android",
                   "bitcoin",
@@ -147,7 +147,7 @@
                 "open_issues": 198,
                 "owner": "cypherstack",
                 "repo": "stack_wallet",
-                "stars": 463,
+                "stars": 464,
                 "topics": [
                   "android",
                   "blockchain",
@@ -178,7 +178,7 @@
                 "open_issues": 21,
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
-                "stars": 463,
+                "stars": 464,
                 "topics": [
                   "arbitrum",
                   "avalanche",
@@ -236,7 +236,7 @@
                 "id": 321209306,
                 "language": "Vue",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T07:36:08Z",
+                "last_commit": "2026-10-12T03:27:45Z",
                 "open_issues": 6,
                 "owner": "paytaca",
                 "repo": "paytaca-app",
@@ -293,7 +293,7 @@
                 "open_issues": 21,
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
-                "stars": 463,
+                "stars": 464,
                 "topics": [
                   "arbitrum",
                   "avalanche",
@@ -565,7 +565,7 @@
                 "open_issues": 21,
                 "owner": "CoinSpace",
                 "repo": "CoinSpace",
-                "stars": 463,
+                "stars": 464,
                 "topics": [
                   "arbitrum",
                   "avalanche",
@@ -680,7 +680,7 @@
                 "open_issues": 8,
                 "owner": "Bitcoin-com",
                 "repo": "paperwallet.bitcoin.com",
-                "stars": 99,
+                "stars": 100,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
@@ -1458,7 +1458,7 @@
             "open_issues": 4,
             "owner": "dsmurrell",
             "repo": "awesome-bitcoin-cash",
-            "stars": 161,
+            "stars": 162,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1630,7 +1630,7 @@
                 "id": 321209306,
                 "language": "Vue",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T07:36:08Z",
+                "last_commit": "2026-10-12T03:27:45Z",
                 "open_issues": 6,
                 "owner": "paytaca",
                 "repo": "paytaca-app",
@@ -1780,7 +1780,7 @@
                 "open_issues": 70,
                 "owner": "bitcoin",
                 "repo": "bips",
-                "stars": 10960,
+                "stars": 10963,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
@@ -2823,7 +2823,7 @@
                 "id": 1190309730,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-06-14T11:51:21Z",
+                "last_commit": "2026-10-11T07:09:13Z",
                 "open_issues": 0,
                 "owner": "mainnet-pat",
                 "repo": "mem-cash",
@@ -3222,7 +3222,7 @@
                     "open_issues": 69,
                     "owner": "BitcoinUnlimited",
                     "repo": "BitcoinUnlimited",
-                    "stars": 500,
+                    "stars": 501,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:40:14.338Z"
@@ -3483,7 +3483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T07:01:40.645Z",
+    "last_updated": "2026-10-12T07:15:03.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bitcoin Cash projects & resources ",
