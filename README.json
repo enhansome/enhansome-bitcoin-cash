@@ -103,11 +103,11 @@
                 "id": 231816914,
                 "language": "Dart",
                 "license": "MIT",
-                "last_commit": "2026-10-11T22:09:33Z",
-                "open_issues": 369,
+                "last_commit": "2026-10-12T18:23:33Z",
+                "open_issues": 371,
                 "owner": "cake-tech",
                 "repo": "cake_wallet",
-                "stars": 1968,
+                "stars": 1971,
                 "topics": [
                   "android",
                   "bitcoin",
@@ -219,7 +219,7 @@
                 "open_issues": 450,
                 "owner": "Electron-Cash",
                 "repo": "Electron-Cash",
-                "stars": 390,
+                "stars": 391,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
@@ -236,8 +236,8 @@
                 "id": 321209306,
                 "language": "Vue",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T03:27:45Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-13T06:10:01Z",
+                "open_issues": 7,
                 "owner": "paytaca",
                 "repo": "paytaca-app",
                 "stars": 57,
@@ -257,8 +257,8 @@
                 "id": 745048424,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T06:56:15Z",
-                "open_issues": 94,
+                "last_commit": "2026-10-13T07:00:21Z",
+                "open_issues": 95,
                 "owner": "cashonize",
                 "repo": "cashonize-wallet",
                 "stars": 21,
@@ -334,7 +334,7 @@
                 "open_issues": 450,
                 "owner": "Electron-Cash",
                 "repo": "Electron-Cash",
-                "stars": 390,
+                "stars": 391,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
@@ -351,8 +351,8 @@
                 "id": 745048424,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T06:56:15Z",
-                "open_issues": 94,
+                "last_commit": "2026-10-13T07:00:21Z",
+                "open_issues": 95,
                 "owner": "cashonize",
                 "repo": "cashonize-wallet",
                 "stars": 21,
@@ -602,8 +602,8 @@
                 "id": 745048424,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T06:56:15Z",
-                "open_issues": 94,
+                "last_commit": "2026-10-13T07:00:21Z",
+                "open_issues": 95,
                 "owner": "cashonize",
                 "repo": "cashonize-wallet",
                 "stars": 21,
@@ -1015,7 +1015,7 @@
                 "open_issues": 57,
                 "owner": "basicswap",
                 "repo": "basicswap",
-                "stars": 324,
+                "stars": 326,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
@@ -1526,7 +1526,7 @@
             "open_issues": 57,
             "owner": "basicswap",
             "repo": "basicswap",
-            "stars": 324,
+            "stars": 326,
             "topics": []
           },
           "first_seen": "2026-08-28T12:40:14.338Z"
@@ -1630,8 +1630,8 @@
                 "id": 321209306,
                 "language": "Vue",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T03:27:45Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-13T06:10:01Z",
+                "open_issues": 7,
                 "owner": "paytaca",
                 "repo": "paytaca-app",
                 "stars": 57,
@@ -1780,7 +1780,7 @@
                 "open_issues": 70,
                 "owner": "bitcoin",
                 "repo": "bips",
-                "stars": 10963,
+                "stars": 10966,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:40:14.338Z"
@@ -2467,7 +2467,7 @@
                 "id": 148558591,
                 "language": "Go",
                 "license": "ISC",
-                "last_commit": "2026-10-09T19:23:46Z",
+                "last_commit": "2026-10-13T01:53:50Z",
                 "open_issues": 19,
                 "owner": "gcash",
                 "repo": "bchd",
@@ -3483,7 +3483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T07:15:03.052Z",
+    "last_updated": "2026-10-13T07:37:15.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bitcoin Cash projects & resources ",
